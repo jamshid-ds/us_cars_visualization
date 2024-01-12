@@ -1,9 +1,13 @@
 # us_cars_visualization
 In this project, I made a visual analysis using the dataset
 <br>
+<br>
 Bu Datasetdan foydalanib ko'plab xulosalar chiqardik. Albatta Jadvallar yordamida
 <br>
+<br>
 ![image](https://github.com/jamshid-ds/us_cars_visualization/assets/117648241/f2154c04-3088-4829-96c7-4e7ee3730939)
+<br>
+<br>
 Bu grafikdan olingan xulosalar:
 <br>
 <br>
@@ -12,7 +16,6 @@ Bu grafikdan olingan xulosalar:
 **Xulosa-2** Mashinaning rangi Narxga kuchli ta'sir qilmaydi
 <br>
 <br>
----
 <br>
 <br>
 
