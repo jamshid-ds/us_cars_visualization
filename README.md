@@ -20,6 +20,8 @@ Bu grafikdan olingan xulosalar:
 <br>
 
 ![image](https://github.com/jamshid-ds/us_cars_visualization/assets/117648241/9ad4849e-6461-444e-ba8c-b1139b82ba07)
+<br>
+<br>
 Bu grafikdan olingan xulosa:
 <br>
 <br>
@@ -42,7 +44,7 @@ Xulosa-4: harly_davidson brandi o'rtacha narx bo'yicha 1-o'rinda
 ---
 <br>
 <br>
-![image](https://github.com/jamshid-ds/us_cars_visualization/assets/117648241/ad77ba94-024c-437a-bd06-fc1ea4a3ee9b)
+![image](https://github.com/jamshid-ds/us_cars_visualization/assets/117648241/bee661f8-5235-4d83-8fdb-c3feba47e572)
 
 Ushbu ikki grafikdan olingan natijalar:
 <br>
