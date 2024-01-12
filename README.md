@@ -25,7 +25,7 @@ Bu grafikdan olingan xulosalar:
 Bu grafikdan olingan xulosa:
 <br>
 <br>
-Xulosa-3: Datasetda nisbatan yangi mashinalar ko'p
+**Xulosa-3**: Datasetda nisbatan yangi mashinalar ko'p
 
 <br>
 <br>
@@ -38,7 +38,7 @@ Xulosa-3: Datasetda nisbatan yangi mashinalar ko'p
 Ushbu Grafikdan olingan natija:
 <br>
 <br>
-Xulosa-4: harly_davidson brandi o'rtacha narx bo'yicha 1-o'rinda
+*Xulosa-4**: harly_davidson brandi o'rtacha narx bo'yicha 1-o'rinda
 <br>
 <br>
 ---
