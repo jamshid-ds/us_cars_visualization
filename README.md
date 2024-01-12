@@ -44,18 +44,6 @@ Xulosa-4: harly_davidson brandi o'rtacha narx bo'yicha 1-o'rinda
 ---
 <br>
 <br>
-![image](https://github.com/jamshid-ds/us_cars_visualization/assets/117648241/7b1cd835-644c-44df-bb24-1b5a2abd7b39)
-Ushbu ikki grafikdan olingan natijalar:
-<br>
-<br>
-Xulusa-5: Eng arzon avtomobil rusumi infiniti model hisoblanadi. Eng arzon brendlar orasidan ham 1-o'rinda harley-davidson brendi
-<br>
-Xulosa-6: Eng Qimmat avtomobil modeli mercedes-benzga tegishli.
-<br>
-<br>
----
-<br>
-<br>
 
 
 
