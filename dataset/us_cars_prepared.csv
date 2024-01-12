@@ -1,0 +1,1821 @@
+price,brand,model,year,title_status,color,state,country,condition,km
+25000,ford,door,2014,clean vehicle,blue,virginia, usa,22 hours left,103232.72364
+27700,chevrolet,1500,2018,clean vehicle,red,florida, usa,22 hours left,10708.54836
+13350,gmc,door,2017,clean vehicle,gray,california, usa,20 hours left,37859.7235
+14600,chevrolet,malibu,2018,clean vehicle,silver,florida, usa,22 hours left,15081.12514
+10400,dodge,coupe,2009,clean vehicle,orange,georgia, usa,22 hours left,173576.97504
+12920,gmc,mpv,2017,clean vehicle,white,california, usa,20 hours left,63810.331
+31900,chevrolet,1500,2018,clean vehicle,black,tennessee, usa,22 hours left,36868.37006
+20700,ford,door,2013,clean vehicle,black,virginia, usa,22 hours left,162152.27038
+12710,gmc,door,2017,clean vehicle,white,california, usa,20 hours left,41435.67698
+16500,buick,encore,2018,clean vehicle,red,tennessee, usa,22 hours left,32190.01868
+38100,ford,door,2013,clean vehicle,gray,virginia, usa,22 hours left,87515.9092
+12520,gmc,door,2017,clean vehicle,white,california, usa,20 hours left,48463.66476
+15000,chevrolet,door,2015,clean vehicle,black,ohio, usa,2 days left,99099.93852
+20800,ford,door,2013,clean vehicle,silver,virginia, usa,22 hours left,169801.4634
+11900,gmc,door,2017,clean vehicle,silver,california, usa,20 hours left,45125.8936
+21500,kia,sorento,2020,clean vehicle,blue,north carolina, usa,2 days left,18428.55234
+12000,buick,door,2014,clean vehicle,brown,ohio, usa,2 days left,49952.30426
+13000,ford,chassis,2008,clean vehicle,white,tennessee, usa,22 hours left,150791.93932
+12710,gmc,door,2017,clean vehicle,silver,california, usa,20 hours left,42428.63976
+18500,infiniti,q70,2016,clean vehicle,gray,new york, usa,19 hours left,115819.37178
+13000,ford,convertible,2003,clean vehicle,gray,virginia, usa,22 hours left,94656.55078
+11900,gmc,door,2017,clean vehicle,black,california, usa,20 hours left,45005.1931
+16600,mercedes-benz,vans,2016,clean vehicle,white,new york, usa,19 hours left,178487.07138
+19200,chevrolet,1500,2018,clean vehicle,white,tennessee, usa,22 hours left,3910.6962
+12710,gmc,door,2017,clean vehicle,white,california, usa,20 hours left,48359.05766
+16600,mercedes-benz,vans,2016,clean vehicle,white,new york, usa,19 hours left,157687.96122
+30500,chevrolet,1500,2018,clean vehicle,red,tennessee, usa,22 hours left,48991.52828
+55000,ford,srw,2017,clean vehicle,black,pennsylvania, usa,3 days left,24579.44982
+12520,gmc,door,2017,clean vehicle,black,california, usa,20 hours left,46625.79848
+16200,jeep,compass,2019,clean vehicle,red,north carolina, usa,2 days left,48378.36974
+19000,chevrolet,malibu,2017,clean vehicle,white,tennessee, usa,22 hours left,29634.38676
+54000,ford,srw,2017,clean vehicle,black,pennsylvania, usa,3 days left,42230.69094
+12710,gmc,mpv,2017,clean vehicle,red,california, usa,20 hours left,64190.13524
+16000,jeep,compass,2019,clean vehicle,silver,north carolina, usa,2 days left,50845.48796
+27000,buick,enclave,2017,clean vehicle,no_color,tennessee, usa,22 hours left,51671.07938
+19600,chrysler,300,2019,clean vehicle,gray,south carolina, usa,22 hours left,68635.13232
+12920,gmc,mpv,2017,clean vehicle,silver,california, usa,20 hours left,63029.8011
+20000,jeep,cherokee,2019,clean vehicle,charcoal,north carolina, usa,2 days left,61726.2357
+18100,buick,door,2017,clean vehicle,silver,florida, usa,2 days left,75262.39444
+23000,chrysler,pacifica,2020,clean vehicle,white,ohio, usa,2 days left,3979.89782
+18500,chrysler,300,2019,clean vehicle,gray,south carolina, usa,22 hours left,62097.993239999996
+13490,gmc,door,2017,clean vehicle,white,california, usa,20 hours left,44807.24428
+20700,jeep,cherokee,2019,clean vehicle,white,north carolina, usa,2 days left,50140.59704
+17800,chevrolet,door,2017,clean vehicle,black,florida, usa,22 hours left,84385.7429
+29100,chrysler,pacifica,2019,clean vehicle,red,south carolina, usa,22 hours left,40685.72454
+12710,gmc,door,2017,clean vehicle,silver,california, usa,20 hours left,52309.98736
+21100,jeep,cherokee,2019,clean vehicle,silver,north carolina, usa,2 days left,46105.98166
+18600,chevrolet,door,2017,clean vehicle,white,florida, usa,22 hours left,56648.768
+19300,chrysler,300,2019,clean vehicle,gray,south carolina, usa,22 hours left,56006.64134
+12780,gmc,door,2017,clean vehicle,black,california, usa,20 hours left,49904.02406
+15800,jeep,compass,2019,clean vehicle,charcoal,north carolina, usa,2 days left,57284.4573
+29400,bmw,x3,2017,clean vehicle,black,tennessee, usa,22 hours left,38245.9651
+19400,chrysler,300,2019,clean vehicle,gray,south carolina, usa,22 hours left,53325.4809
+12520,gmc,door,2017,clean vehicle,red,california, usa,20 hours left,49303.74024
+15900,jeep,compass,2019,clean vehicle,red,north carolina, usa,2 days left,55525.44868
+26400,buick,door,2017,clean vehicle,white,florida, usa,22 hours left,40931.95356
+18300,chrysler,300,2019,clean vehicle,gray,south carolina, usa,22 hours left,67257.53728
+12520,gmc,door,2017,clean vehicle,black,california, usa,20 hours left,51486.00528
+17900,jeep,compass,2019,clean vehicle,red,north carolina, usa,2 days left,52305.15934
+18300,chevrolet,camaro,2017,clean vehicle,black,florida, usa,22 hours left,45697.2093
+24000,ford,door,2016,clean vehicle,black,pennsylvania, usa,3 days left,135849.21742
+13200,gmc,door,2017,clean vehicle,white,california, usa,20 hours left,53843.68838
+18000,jeep,compass,2019,clean vehicle,gray,north carolina, usa,2 days left,47065.1483
+14900,chevrolet,equinox,2017,clean vehicle,silver,florida, usa,22 hours left,20572.19322
+11500,ford,door,2016,clean vehicle,black,pennsylvania, usa,2 days left,59312.2257
+24500,bmw,door,2017,clean vehicle,gray,michigan, usa,2 days left,28366.22684
+39800,dodge,challenger,2015,clean vehicle,white,pennsylvania, usa,2 days left,5859.60694
+53500,bmw,m,2017,clean vehicle,blue,michigan, usa,2 days left,47242.1757
+15110,ford,door,2017,clean vehicle,black,texas, usa,2 days left,63300.17022
+34000,ford,door,2015,clean vehicle,white,pennsylvania, usa,2 days left,69088.9662
+26502,chevrolet,colorado,2017,clean vehicle,black,michigan, usa,20 hours left,40222.23462
+13600,ford,focus,2018,clean vehicle,black,south carolina, usa,21 hours left,27312.10914
+23605,cadillac,door,2017,clean vehicle,gray,michigan, usa,2 days left,57289.28532
+10780,ford,mpv,2017,clean vehicle,white,texas, usa,2 days left,65105.8497
+13800,ford,focus,2018,clean vehicle,white,south carolina, usa,21 hours left,37278.75176
+25201,cadillac,door,2017,clean vehicle,no_color,michigan, usa,2 days left,30595.16274
+18003,chevrolet,malibu,2017,clean vehicle,no_color,michigan, usa,17 hours left,30765.75278
+23100,dodge,durango,2018,clean vehicle,white,south carolina, usa,21 hours left,79655.89264
+24500,cadillac,door,2017,clean vehicle,white,michigan, usa,2 days left,52171.58412
+17000,ford,escape,2018,clean vehicle,gold,south carolina, usa,21 hours left,56035.60946
+34002,chevrolet,1500,2017,clean vehicle,white,michigan, usa,2 days left,51374.96082
+25000,dodge,charger,2018,clean vehicle,silver,michigan, usa,21 hours left,45555.58738
+26500,chrysler,pacifica,2017,clean vehicle,gray,michigan, usa,21 hours left,29571.6225
+24802,chevrolet,colorado,2017,clean vehicle,gray,michigan, usa,2 days left,22785.03572
+28500,ford,door,2017,clean vehicle,red,south carolina, usa,21 hours left,77386.72324
+47500,cadillac,door,2017,clean vehicle,black,michigan, usa,2 days left,42747.28908
+23500,ford,explorer,2017,clean vehicle,black,south carolina, usa,21 hours left,92715.68674
+23505,chevrolet,colorado,2017,clean vehicle,black,michigan, usa,2 hours left,76213.51438
+10940,ford,door,2017,clean vehicle,white,texas, usa,2 days left,136658.71544
+32100,ford,f-150,2017,clean vehicle,gray,south carolina, usa,21 hours left,39462.62614
+53000,chevrolet,3500,2018,clean vehicle,black,washington, usa,21 hours left,25918.4207
+11900,dodge,caravan,2017,clean vehicle,gray,south carolina, usa,21 hours left,95815.27558
+26414,chevrolet,1500,2017,clean vehicle,black,michigan, usa,20 hours left,88870.97348
+19405,chevrolet,door,2017,clean vehicle,silver,michigan, usa,3 hours left,63869.87658
+25900,chrysler,van,2017,clean vehicle,silver,south carolina, usa,21 hours left,51859.37216
+19500,chrysler,300,2017,clean vehicle,gray,arizona, usa,34 minutes,50390.04474
+32012,chevrolet,1500,2017,clean vehicle,white,michigan, usa,2 days left,74176.08994
+31802,chevrolet,2500,2017,clean vehicle,silver,michigan, usa,20 hours left,31937.3523
+28402,chevrolet,1500,2017,clean vehicle,black,michigan, usa,2 days left,50266.12556
+33300,cadillac,esv,2015,clean vehicle,gray,washington, usa,21 hours left,93232.28488
+10780,dodge,mpv,2018,clean vehicle,white,florida, usa,16 hours left,31253.3828
+20000,chevrolet,1500,2016,clean vehicle,white,washington, usa,21 hours left,150462.02462
+19900,ford,door,2016,clean vehicle,gray,south carolina, usa,21 hours left,139732.55484
+37000,chevrolet,door,2015,clean vehicle,white,washington, usa,21 hours left,73686.85058
+22300,ford,explorer,2016,clean vehicle,black,south carolina, usa,21 hours left,101024.70916
+31200,chevrolet,door,2011,clean vehicle,gray,washington, usa,21 hours left,122834.48484
+22800,ford,el,2016,clean vehicle,silver,south carolina, usa,21 hours left,117296.7459
+19002,cadillac,door,2016,clean vehicle,white,michigan, usa,20 hours left,74781.20178
+18500,ford,edge,2016,clean vehicle,white,south carolina, usa,21 hours left,53935.42076
+39000,bmw,series,2016,clean vehicle,blue,michigan, usa,2 days left,64240.02478
+28800,ford,door,2016,clean vehicle,white,south carolina, usa,21 hours left,124945.93892
+40000,bmw,series,2016,clean vehicle,gray,michigan, usa,2 days left,51059.53018
+21000,ford,flex,2016,clean vehicle,gray,south carolina, usa,21 hours left,38876.82638
+25800,ford,door,2014,clean vehicle,brown,pennsylvania, usa,1 days left,75727.4937
+39000,bmw,series,2016,clean vehicle,black,michigan, usa,2 days left,53285.2474
+14600,ford,door,2014,clean vehicle,black,pennsylvania, usa,21 hours left,121963.8319
+24502,chevrolet,1500,2016,clean vehicle,black,michigan, usa,20 hours left,54112.44816
+15110,ford,door,2017,clean vehicle,white,texas, usa,2 days left,68057.37926
+27305,chevrolet,door,2016,clean vehicle,blue,michigan, usa,3 hours left,46419.80296
+15290,ford,door,2017,clean vehicle,white,texas, usa,2 days left,107153.07588
+26500,ford,door,2015,clean vehicle,silver,south carolina, usa,21 hours left,98871.41224
+25502,chevrolet,door,2016,clean vehicle,silver,michigan, usa,20 hours left,93829.35002
+24502,chevrolet,door,2016,clean vehicle,white,michigan, usa,20 hours left,53180.6403
+18402,cadillac,srx,2016,clean vehicle,gray,michigan, usa,2 days left,42916.26978
+24503,chevrolet,colorado,2016,clean vehicle,brown,michigan, usa,20 hours left,28977.77604
+15840,ford,door,2017,clean vehicle,white,texas, usa,2 days left,116588.6363
+20500,ford,door,2014,clean vehicle,black,south carolina, usa,21 hours left,198520.1357
+21003,chevrolet,1500,2016,clean vehicle,silver,michigan, usa,32 minutes,70997.64344
+17400,ford,door,2011,clean vehicle,red,georgia, usa,21 hours left,217384.81918
+32001,chevrolet,door,2016,clean vehicle,black,michigan, usa,2 days left,51592.22172
+15700,ford,cab,2011,clean vehicle,white,south carolina, usa,21 hours left,498193.72776
+31009,chevrolet,door,2016,clean vehicle,white,michigan, usa,2 days left,54601.68752
+31002,chevrolet,door,2016,clean vehicle,white,michigan, usa,20 hours left,115565.09606
+12990,ford,door,2017,clean vehicle,white,texas, usa,2 days left,203618.52482
+13200,buick,encore,2017,clean vehicle,black,texas, usa,21 hours left,96835.59714
+22500,chevrolet,camaro,2020,clean vehicle,green,georgia, usa,3 days left,22250.73484
+13500,ford,door,2016,clean vehicle,silver,arizona, usa,20 hours left,73638.57038
+15500,chevrolet,trax,2020,clean vehicle,white,georgia, usa,3 days left,26626.5303
+17000,ford,door,2016,clean vehicle,no_color,florida, usa,2 hours left,204067.53068
+45500,chevrolet,tahoe,2020,clean vehicle,white,georgia, usa,3 days left,21409.05002
+15700,ford,door,2015,clean vehicle,white,arizona, usa,14 hours left,113057.74434
+45500,chevrolet,tahoe,2020,clean vehicle,gray,georgia, usa,3 days left,22014.16186
+15500,dodge,door,2012,clean vehicle,black,pennsylvania, usa,2 days left,106943.86168
+16300,chevrolet,trax,2020,clean vehicle,white,georgia, usa,3 days left,29323.78414
+15600,dodge,door,2011,clean vehicle,black,pennsylvania, usa,2 days left,56769.4685
+45500,chevrolet,tahoe,2020,clean vehicle,white,georgia, usa,3 days left,22345.6859
+18200,dodge,door,2011,clean vehicle,white,pennsylvania, usa,2 days left,261165.30454
+10200,chevrolet,door,2013,clean vehicle,black,texas, usa,21 hours left,90893.91386
+10200,chevrolet,3500,2014,clean vehicle,white,texas, usa,21 hours left,279170.60046
+10500,dodge,door,2014,clean vehicle,white,arizona, usa,1 days left,119417.85602
+43500,chevrolet,2500,2018,clean vehicle,white,georgia, usa,6 days left,92704.42136
+38500,chevrolet,suburban,2018,clean vehicle,silver,georgia, usa,3 days left,17920.0009
+43500,chevrolet,2500,2018,clean vehicle,white,georgia, usa,6 days left,90134.30538
+16500,chevrolet,equinox,2018,clean vehicle,silver,georgia, usa,3 days left,29000.3068
+26500,ford,pickup,2008,clean vehicle,white,pennsylvania, usa,1 days left,99803.2201
+13700,chevrolet,equinox,2017,clean vehicle,silver,georgia, usa,3 days left,58613.77214
+14200,chevrolet,equinox,2017,clean vehicle,silver,georgia, usa,3 days left,45082.44142
+30851,chevrolet,door,2016,clean vehicle,red,georgia, usa,2 days left,69484.86384
+14500,dodge,pickup,2006,clean vehicle,silver,pennsylvania, usa,3 days left,179895.24388
+13270,ford,door,2016,clean vehicle,white,texas, usa,2 days left,135240.8869
+12800,ford,door,2012,clean vehicle,gray,arizona, usa,20 hours left,210986.08334
+33000,chevrolet,1500,2018,clean vehicle,white,ontario, canada,10 days left,84524.14614
+19500,ford,drw,2011,clean vehicle,white,pennsylvania, usa,2 days left,123753.41798
+17100,chevrolet,malibu,2019,clean vehicle,white,washington, usa,2 days left,25395.3852
+10300,ford,fiesta,2019,clean vehicle,black,missouri, usa,4 days left,30476.07158
+22600,chevrolet,van,2019,clean vehicle,white,washington, usa,2 days left,15620.25404
+10480,ford,doors,2016,clean vehicle,gray,texas, usa,2 days left,92197.47926
+10300,ford,fiesta,2019,clean vehicle,silver,missouri, usa,4 days left,32115.98904
+22700,chevrolet,van,2019,clean vehicle,white,washington, usa,2 days left,9776.7405
+10300,ford,fiesta,2019,clean vehicle,gray,missouri, usa,4 days left,36823.30854
+10300,chevrolet,door,2013,clean vehicle,gray,washington, usa,2 days left,269725.384
+67000,dodge,challenger,2019,clean vehicle,blue,ohio, usa,21 hours left,17612.61696
+18900,chevrolet,impala,2019,clean vehicle,white,texas, usa,21 hours left,44419.39334
+12560,ford,doors,2019,clean vehicle,white,florida, usa,18 hours left,25681.84772
+33000,dodge,durango,2019,clean vehicle,white,ohio, usa,21 hours left,51902.82434
+18300,chevrolet,impala,2019,clean vehicle,black,texas, usa,21 hours left,41535.45606
+11760,ford,cab,2017,clean vehicle,white,texas, usa,2 days left,49170.16502
+31700,dodge,durango,2019,clean vehicle,red,ohio, usa,21 hours left,42726.367659999996
+12700,kia,soul,2019,clean vehicle,silver,california, usa,10 days left,37842.02076
+13800,kia,sorento,2017,clean vehicle,gray,north carolina, usa,3 days left,139946.59706
+10330,infiniti,mpv,2019,clean vehicle,blue,florida, usa,22 hours left,34243.53652
+22800,ford,door,2017,clean vehicle,red,michigan, usa,2 days left,108175.00678
+10900,jeep,mpv,2019,clean vehicle,red,michigan, usa,2 days left,21360.76982
+10400,infiniti,mpv,2019,clean vehicle,black,florida, usa,22 hours left,51036.99942
+22809,ford,f-150,2017,clean vehicle,black,michigan, usa,20 hours left,81645.03688
+10900,jeep,mpv,2019,clean vehicle,orange,michigan, usa,2 days left,22844.5813
+23702,ford,door,2017,clean vehicle,black,michigan, usa,2 days left,78896.28416
+14810,infiniti,mpv,2019,clean vehicle,brown,florida, usa,22 hours left,52482.18674
+24800,ford,door,2017,clean vehicle,gray,michigan, usa,2 days left,75566.5597
+10050,infiniti,mpv,2019,clean vehicle,gray,florida, usa,22 hours left,29336.65886
+26900,chevrolet,traverse,2018,clean vehicle,black,missouri, usa,20 hours left,69106.66894
+27003,ford,door,2017,clean vehicle,black,michigan, usa,20 hours left,92031.71724
+10120,infiniti,mpv,2019,clean vehicle,white,florida, usa,22 hours left,33282.76054
+23100,ford,door,2017,clean vehicle,black,michigan, usa,20 hours left,85729.5418
+18712,ford,f-150,2017,clean vehicle,black,michigan, usa,20 hours left,108384.22098
+50412,ford,door,2017,clean vehicle,black,michigan, usa,2 days left,75846.58486
+11380,jeep,mpv,2019,clean vehicle,black,michigan, usa,2 days left,19373.23492
+40514,ford,door,2017,clean vehicle,white,michigan, usa,20 hours left,145329.83936
+10330,infiniti,mpv,2019,clean vehicle,gray,florida, usa,22 hours left,41735.01422
+43402,ford,door,2017,clean vehicle,blue,michigan, usa,2 days left,100401.89458
+17200,honda,van,2016,clean vehicle,gray,new jersey, usa,2 hours left,116720.60218
+54680,harley-davidson,road/street,2016,clean vehicle,black,virginia, usa,18 hours left,15291.94868
+13080,infiniti,mpv,2019,clean vehicle,gray,florida, usa,22 hours left,27749.84962
+10630,ford,door,2015,clean vehicle,white,georgia, usa,2 days left,133412.67666
+43009,ford,door,2017,clean vehicle,white,michigan, usa,2 days left,122982.54412
+53500,ford,door,2017,clean vehicle,white,michigan, usa,20 hours left,89691.73688
+61200,bmw,series,2020,clean vehicle,black,california, usa,7 days left,12084.53406
+13500,bmw,series,2014,clean vehicle,blue,new jersey, usa,2 days left,53980.48228
+51502,ford,door,2017,clean vehicle,black,michigan, usa,2 days left,44515.95374
+39800,bmw,series,2017,clean vehicle,blue,california, usa,21 hours left,37299.67318
+58500,ford,srw,2019,clean vehicle,blue,washington, usa,21 hours left,34644.26218
+15050,infiniti,mpv,2019,clean vehicle,white,texas, usa,17 hours left,43107.78124
+36300,lincoln,nautilus,2019,clean vehicle,black,california, usa,1 days left,23401.41294
+55600,lexus,gx,2020,clean vehicle,silver,florida, usa,2 days left,13174.05724
+19500,audi,q5,2017,clean vehicle,blue,texas, usa,3 days left,105947.68022
+20400,cadillac,door,2015,clean vehicle,white,wisconsin, usa,2 days left,58132.57948
+33001,ford,f-150,2017,clean vehicle,gray,michigan, usa,2 days left,57783.3527
+14750,infiniti,mpv,2019,clean vehicle,black,texas, usa,17 hours left,17778.37898
+40000,mercedes-benz,gle,2019,clean vehicle,white,california, usa,1 days left,31264.64818
+13000,kia,sportage,2017,clean vehicle,silver,new jersey, usa,2 hours left,115857.99594
+36400,audi,5,2015,clean vehicle,black,wisconsin, usa,2 days left,75981.76942
+31003,ford,door,2017,clean vehicle,red,michigan, usa,20 hours left,116007.66456
+14750,infiniti,mpv,2019,clean vehicle,white,texas, usa,17 hours left,18340.03864
+23000,land,sport,2018,clean vehicle,black,california, usa,1 days left,32352.56202
+46900,land,discovery,2018,clean vehicle,black,florida, usa,2 days left,52121.69458
+10740,mercedes-benz,doors,2018,clean vehicle,white,california, usa,20 hours left,77473.62759999999
+27102,ford,f-150,2017,clean vehicle,red,michigan, usa,2 days left,54983.1011
+23200,land,sport,2018,clean vehicle,black,california, usa,1 days left,38213.7783
+15000,bmw,door,2014,clean vehicle,silver,illinois, usa,21 hours left,71985.7782
+10440,chevrolet,cab,2011,clean vehicle,blue,florida, usa,23 hours left,148825.32584
+23911,ford,f-150,2017,clean vehicle,black,michigan, usa,20 hours left,41356.81932
+21400,gmc,acadia,2018,clean vehicle,gray,new jersey, usa,2 hours left,87438.66088
+11000,jeep,mpv,2019,clean vehicle,red,michigan, usa,2 days left,14371.4062
+22500,land,sport,2018,clean vehicle,black,california, usa,2 days left,48634.2548
+30300,maserati,ghibli,2017,clean vehicle,black,florida, usa,2 days left,59579.37614
+26012,ford,door,2017,clean vehicle,black,michigan, usa,20 hours left,31945.399
+48500,gmc,1500,2019,clean vehicle,black,pennsylvania, usa,1 days left,25390.55718
+24900,mercedes-benz,glc,2018,clean vehicle,white,california, usa,1 days left,54213.83658
+29400,mercedes-benz,e-class,2017,clean vehicle,blue,florida, usa,2 days left,60448.41974
+25503,ford,f-150,2017,clean vehicle,black,michigan, usa,9 minutes,30009.362979999998
+26000,gmc,limited,2019,clean vehicle,black,pennsylvania, usa,1 days left,26826.08846
+11200,jeep,mpv,2019,clean vehicle,gray,michigan, usa,2 days left,20768.5327
+28000,mercedes-benz,gle,2018,clean vehicle,white,california, usa,1 days left,65628.8852
+84900,mercedes-benz,sl-class,2017,clean vehicle,silver,florida, usa,2 days left,40719.52068
+10840,lexus,mpv,2017,clean vehicle,black,california, usa,20 hours left,58895.40664
+11050,ram,door,2017,clean vehicle,white,new jersey, usa,17 hours left,48957.73214
+25001,ford,door,2017,clean vehicle,gray,michigan, usa,2 days left,44696.19982
+11100,jeep,mpv,2019,clean vehicle,white,michigan, usa,2 days left,18071.27886
+29502,ford,f-150,2017,clean vehicle,red,michigan, usa,2 days left,22616.05502
+10910,jeep,mpv,2019,clean vehicle,red,michigan, usa,2 days left,19719.24302
+16000,mazda,cx-3,2016,clean vehicle,gray,florida, usa,2 days left,76850.81302
+24811,ford,door,2017,clean vehicle,red,michigan, usa,21 hours left,45808.25376
+17900,mercedes-benz,door,2015,clean vehicle,gray,florida, usa,2 days left,80100.07048
+26400,ford,door,2017,clean vehicle,red,michigan, usa,19 hours left,58410.9953
+32500,gmc,2500hd,2018,clean vehicle,blue,pennsylvania, usa,1 days left,23908.35504
+18000,mercedes-benz,door,2015,clean vehicle,black,florida, usa,2 days left,132627.31874
+13200,chevrolet,door,2017,clean vehicle,black,pennsylvania, usa,2 days left,81123.61072
+27705,ford,f-150,2019,clean vehicle,gray,michigan, usa,19 hours left,25153.9842
+28714,ford,f-150,2019,clean vehicle,white,michigan, usa,19 hours left,23795.70124
+11200,chevrolet,door,2017,clean vehicle,white,pennsylvania, usa,2 days left,137300.8421
+27502,ford,f-150,2019,clean vehicle,gray,michigan, usa,1 minutes,25984.40364
+11900,chevrolet,door,2017,clean vehicle,blue,pennsylvania, usa,2 days left,122649.41074
+29314,ford,f-150,2019,clean vehicle,gray,michigan, usa,19 hours left,24566.5751
+11200,chevrolet,door,2017,clean vehicle,silver,pennsylvania, usa,2 days left,128690.8731
+27002,ford,f-150,2019,clean vehicle,gray,michigan, usa,1 minutes,25844.391059999998
+13200,chevrolet,door,2017,clean vehicle,black,pennsylvania, usa,2 days left,100968.38226
+28214,ford,f-150,2019,clean vehicle,white,michigan, usa,19 hours left,25055.81446
+12700,chevrolet,door,2017,clean vehicle,black,pennsylvania, usa,2 days left,94841.62488
+29900,ford,f-150,2019,clean vehicle,white,michigan, usa,2 days left,28144.13792
+12700,chevrolet,door,2017,clean vehicle,black,pennsylvania, usa,2 days left,97740.04622
+27202,ford,f-150,2019,clean vehicle,red,michigan, usa,1 minutes,29853.257
+13500,chevrolet,impala,2018,clean vehicle,white,new jersey, usa,7 hours left,85607.23196
+27705,ford,f-150,2019,clean vehicle,silver,michigan, usa,19 hours left,28395.19496
+14700,chevrolet,van,2016,clean vehicle,white,pennsylvania, usa,2 days left,55448.20036
+29900,ford,f-150,2019,clean vehicle,white,michigan, usa,2 days left,28459.56856
+27705,ford,f-150,2019,clean vehicle,silver,michigan, usa,19 hours left,26715.044
+25511,ford,f-150,2019,clean vehicle,silver,michigan, usa,19 hours left,28647.86134
+29900,ford,f-150,2019,clean vehicle,silver,michigan, usa,2 days left,27614.66506
+27502,ford,f-150,2019,clean vehicle,red,michigan, usa,1 minutes,28940.76122
+27402,ford,f-150,2019,clean vehicle,white,michigan, usa,1 minutes,28728.32834
+26602,ford,f-150,2019,clean vehicle,white,michigan, usa,1 minutes,29248.14516
+10200,chevrolet,sonic,2019,clean vehicle,black,illinois, usa,2 days left,12317.88836
+29900,ford,f-150,2019,clean vehicle,black,michigan, usa,2 days left,30189.60906
+14000,chevrolet,colorado,2019,clean vehicle,white,illinois, usa,2 days left,18610.40776
+28500,ford,f-150,2019,clean vehicle,silver,michigan, usa,19 hours left,30418.13534
+29809,ford,f-150,2019,clean vehicle,silver,michigan, usa,19 hours left,34048.80638
+36900,chevrolet,corvette,2015,clean vehicle,black,florida, usa,16 hours left,48178.81158
+26902,ford,f-150,2019,clean vehicle,white,michigan, usa,1 minutes,38566.22376
+10950,chevrolet,door,2015,clean vehicle,red,florida, usa,22 hours left,94152.82736
+27402,ford,f-150,2019,clean vehicle,white,michigan, usa,1 minutes,32434.63836
+16900,acura,mdx,2014,clean vehicle,silver,florida, usa,1 days left,102193.09
+25600,ford,f-150,2019,clean vehicle,silver,michigan, usa,19 hours left,37487.96596
+29700,bmw,series,2016,clean vehicle,no_color,texas, usa,1 days left,39095.69662
+27702,ford,f-150,2019,clean vehicle,red,michigan, usa,1 minutes,32738.80362
+13500,buick,encore,2016,clean vehicle,red,texas, usa,5 hours left,31631.5777
+27102,ford,f-150,2019,clean vehicle,white,michigan, usa,1 minutes,30738.394
+27102,ford,f-150,2019,clean vehicle,white,michigan, usa,1 minutes,32209.33076
+25811,ford,f-150,2019,clean vehicle,black,michigan, usa,16 minutes,35041.76916
+26602,ford,f-150,2019,clean vehicle,white,michigan, usa,1 minutes,34119.61734
+27102,ford,f-150,2019,clean vehicle,white,michigan, usa,1 minutes,35028.89444
+37500,buick,enclave,2019,clean vehicle,gray,wisconsin, usa,21 hours left,19965.47204
+26211,ford,flex,2019,clean vehicle,blue,michigan, usa,21 hours left,28931.10518
+24205,ford,flex,2019,clean vehicle,silver,michigan, usa,2 days left,36700.9987
+37500,cadillac,xt5,2019,clean vehicle,black,wisconsin, usa,21 hours left,25770.36142
+27111,ford,flex,2019,clean vehicle,black,michigan, usa,21 hours left,23145.52788
+27411,ford,flex,2019,clean vehicle,black,michigan, usa,21 hours left,15546.2244
+27302,ford,flex,2019,clean vehicle,black,michigan, usa,2 days left,30527.57046
+27202,ford,f-150,2019,clean vehicle,gray,michigan, usa,1 minutes,39798.9782
+26311,ford,flex,2019,clean vehicle,red,michigan, usa,21 hours left,25503.21098
+26602,ford,f-150,2019,clean vehicle,white,michigan, usa,1 minutes,40247.98406
+33500,bmw,series,2017,clean vehicle,blue,wisconsin, usa,21 hours left,35590.5541
+27511,ford,flex,2019,clean vehicle,white,michigan, usa,21 hours left,19048.14824
+21500,buick,door,2017,clean vehicle,red,wisconsin, usa,2 days left,38245.9651
+27200,ford,f-150,2019,clean vehicle,silver,michigan, usa,20 hours left,41051.04472
+26511,ford,flex,2019,clean vehicle,red,michigan, usa,21 hours left,29283.55064
+24002,ford,flex,2019,clean vehicle,gray,michigan, usa,2 days left,25920.03004
+21500,buick,door,2017,clean vehicle,silver,wisconsin, usa,2 days left,23990.431379999998
+18511,ford,fusion,2019,clean vehicle,gray,michigan, usa,20 hours left,20494.9449
+14000,kia,sorento,2017,clean vehicle,black,connecticut, usa,5 hours left,85977.38016
+29000,buick,door,2017,clean vehicle,green,illinois, usa,21 hours left,28871.5596
+23402,ford,flex,2019,clean vehicle,gray,michigan, usa,2 days left,28029.87478
+13300,kia,door,2017,clean vehicle,no_color,connecticut, usa,5 hours left,59746.7475
+19700,bmw,x3,2017,clean vehicle,black,wisconsin, usa,2 days left,98858.53752
+23211,ford,flex,2019,clean vehicle,black,michigan, usa,21 hours left,27399.0135
+15500,kia,sorento,2017,clean vehicle,red,connecticut, usa,5 hours left,60620.61912
+18111,ford,fusion,2019,clean vehicle,black,michigan, usa,20 hours left,25435.6187
+21500,kia,sorento,2017,clean vehicle,gray,connecticut, usa,5 hours left,70426.32774
+25511,ford,mustang,2019,clean vehicle,gray,michigan, usa,19 hours left,18253.13428
+17700,chevrolet,equinox,2017,clean vehicle,blue,wisconsin, usa,21 hours left,57395.50176
+28000,chevrolet,cutaway,2017,clean vehicle,white,illinois, usa,21 hours left,20567.3652
+14000,chevrolet,door,2017,clean vehicle,blue,wisconsin, usa,21 hours left,61891.99772
+21700,chevrolet,door,2017,clean vehicle,silver,wisconsin, usa,21 hours left,55393.4828
+13500,chevrolet,door,2017,clean vehicle,white,wisconsin, usa,21 hours left,74829.48198
+35500,chevrolet,1500,2017,clean vehicle,no_color,wisconsin, usa,21 hours left,34227.443119999996
+29500,chevrolet,1500,2017,clean vehicle,red,wisconsin, usa,21 hours left,49936.21086
+25300,chevrolet,1500,2017,clean vehicle,no_color,wisconsin, usa,21 hours left,65786.60051999999
+21500,chevrolet,1500,2016,clean vehicle,silver,new jersey, usa,3 days left,32621.3218
+25900,chevrolet,door,2016,clean vehicle,blue,wisconsin, usa,21 hours left,53082.47056
+35300,chevrolet,door,2016,clean vehicle,black,wisconsin, usa,21 hours left,121514.82604
+13500,chevrolet,door,2016,clean vehicle,red,wisconsin, usa,21 hours left,64294.74234
+62000,chevrolet,corvette,2016,clean vehicle,white,illinois, usa,21 hours left,31226.02402
+46000,chevrolet,corvette,2016,clean vehicle,black,illinois, usa,2 days left,7153.5163
+25900,chevrolet,door,2016,clean vehicle,white,wisconsin, usa,21 hours left,54054.51192
+25800,chevrolet,door,2016,clean vehicle,no_color,wisconsin, usa,21 hours left,16259.16202
+17000,chevrolet,door,2016,clean vehicle,gray,wisconsin, usa,21 hours left,42605.66716
+12800,chevrolet,door,2016,clean vehicle,white,wisconsin, usa,21 hours left,64780.76302
+47400,chevrolet,3500,2016,clean vehicle,red,wisconsin, usa,21 hours left,63768.48816
+24400,chevrolet,door,2016,clean vehicle,gray,wisconsin, usa,21 hours left,78382.9047
+17100,chevrolet,trax,2016,clean vehicle,white,wisconsin, usa,2 days left,31638.01506
+33100,chevrolet,door,2015,clean vehicle,gold,wisconsin, usa,2 days left,131344.67476
+22000,chevrolet,trax,2020,clean vehicle,gray,california, usa,21 hours left,288.07186
+35000,chevrolet,1500,2019,clean vehicle,no_color,california, usa,2 days left,8888.38482
+16500,chevrolet,equinox,2019,clean vehicle,silver,california, usa,21 hours left,48024.31494
+35300,chevrolet,1500,2019,clean vehicle,silver,california, usa,21 hours left,13705.13944
+26900,chevrolet,traverse,2018,clean vehicle,black,missouri, usa,19 hours left,69106.66894
+11600,chevrolet,trax,2017,clean vehicle,black,california, usa,21 hours left,44253.63132
+28100,chevrolet,1500,2017,clean vehicle,silver,california, usa,21 hours left,50116.45694
+27700,chevrolet,1500,2017,clean vehicle,white,california, usa,21 hours left,33448.52256
+17700,chevrolet,passenger,2017,clean vehicle,white,california, usa,21 hours left,84759.10978
+16600,chevrolet,volt,2017,clean vehicle,no_color,california, usa,21 hours left,41847.66802
+63200,chevrolet,corvette,2016,clean vehicle,red,california, usa,2 days left,6865.44444
+36800,chevrolet,door,2015,clean vehicle,white,california, usa,21 hours left,52033.18088
+19500,chevrolet,passenger,2018,clean vehicle,white,texas, usa,1 days left,71346.87022
+38800,chevrolet,tahoe,2019,clean vehicle,blue,oklahoma, usa,21 hours left,58254.88932
+37500,chevrolet,tahoe,2019,clean vehicle,silver,oklahoma, usa,21 hours left,53640.91154
+35000,chevrolet,suburban,2019,clean vehicle,gray,oklahoma, usa,21 hours left,69333.58588
+31100,chevrolet,camaro,2019,clean vehicle,gray,oklahoma, usa,21 hours left,39526.99974
+22600,chevrolet,van,2019,clean vehicle,white,oklahoma, usa,21 hours left,21701.9499
+22400,chevrolet,van,2019,clean vehicle,white,oklahoma, usa,21 hours left,24983.39416
+22700,chevrolet,van,2019,clean vehicle,white,oklahoma, usa,21 hours left,14477.62264
+13700,chevrolet,malibu,2019,clean vehicle,silver,oklahoma, usa,21 hours left,76092.81388
+37100,chevrolet,suburban,2019,clean vehicle,black,oklahoma, usa,21 hours left,55473.9498
+18500,chevrolet,colorado,2018,clean vehicle,green,oregon, usa,34 minutes,140437.44576
+18300,chevrolet,2500,2017,clean vehicle,white,oregon, usa,34 minutes,184018.37296
+19000,chevrolet,2500,2017,clean vehicle,white,oregon, usa,34 minutes,179658.6709
+18500,chevrolet,1500,2017,clean vehicle,white,oregon, usa,34 minutes,167298.9397
+22500,chevrolet,door,2016,clean vehicle,white,oregon, usa,34 minutes,107246.4176
+14500,chevrolet,door,2014,clean vehicle,white,oregon, usa,34 minutes,196368.44812
+32800,chevrolet,tahoe,2018,clean vehicle,gray,oklahoma, usa,21 hours left,75502.1861
+12300,chevrolet,malibu,2018,clean vehicle,black,oklahoma, usa,21 hours left,86259.01466
+19600,chevrolet,1500,2018,clean vehicle,gray,oklahoma, usa,21 hours left,67064.41648
+13600,chevrolet,malibu,2018,clean vehicle,white,oklahoma, usa,21 hours left,58011.87898
+19900,chevrolet,1500,2018,clean vehicle,white,oklahoma, usa,21 hours left,64928.8223
+13000,chevrolet,malibu,2018,clean vehicle,gray,oklahoma, usa,21 hours left,67191.55434
+19700,chevrolet,door,2016,clean vehicle,white,oklahoma, usa,21 hours left,44406.51862
+23800,chevrolet,1500,2017,clean vehicle,white,oklahoma, usa,21 hours left,137915.60998
+17700,chevrolet,equinox,2019,clean vehicle,white,new york, usa,18 hours left,40592.38282
+17000,chevrolet,door,2015,clean vehicle,white,oklahoma, usa,21 hours left,44944.03818
+14000,chevrolet,door,2014,clean vehicle,red,florida, usa,2 days left,217465.28618
+32100,chevrolet,2500,2018,clean vehicle,white,pennsylvania, usa,21 hours left,89369.86888
+33100,chevrolet,2500,2019,clean vehicle,white,pennsylvania, usa,21 hours left,116149.28648
+31600,chevrolet,2500,2018,clean vehicle,white,pennsylvania, usa,21 hours left,92940.99434
+12800,chevrolet,1500,2014,clean vehicle,white,texas, usa,7 hours left,285371.38748
+46800,chevrolet,1500,2019,clean vehicle,gray,nebraska, usa,21 hours left,58616.99082
+21800,chevrolet,van,2019,clean vehicle,white,missouri, usa,21 hours left,38236.30906
+22500,chevrolet,colorado,2017,clean vehicle,red,indiana, usa,2 days left,105160.71296
+35300,chevrolet,suburban,2018,clean vehicle,black,missouri, usa,21 hours left,82634.78098
+16500,chevrolet,volt,2017,clean vehicle,black,oklahoma, usa,21 hours left,84203.88748
+33000,chevrolet,door,2017,clean vehicle,black,missouri, usa,2 days left,108823.5708
+31500,chevrolet,1500,2017,clean vehicle,black,missouri, usa,2 days left,96504.0731
+34500,chevrolet,1500,2017,clean vehicle,silver,missouri, usa,2 days left,46250.82226
+25000,chevrolet,1500,2017,clean vehicle,white,west virginia, usa,21 hours left,33549.91098
+10700,chevrolet,trax,2016,clean vehicle,red,west virginia, usa,2 days left,71261.5752
+13400,chevrolet,door,2016,clean vehicle,silver,west virginia, usa,2 days left,138453.12954
+16500,chevrolet,equinox,2019,clean vehicle,gold,west virginia, usa,2 days left,12266.38948
+34000,chevrolet,traverse,2019,clean vehicle,white,west virginia, usa,2 days left,12982.54578
+14100,chevrolet,trax,2018,clean vehicle,white,west virginia, usa,2 days left,26557.32868
+38600,chevrolet,1500,2019,clean vehicle,black,west virginia, usa,2 days left,33282.76054
+22000,chevrolet,door,2016,clean vehicle,white,oklahoma, usa,21 hours left,94719.31504
+15500,chevrolet,door,2015,clean vehicle,red,west virginia, usa,2 days left,127952.18604
+29000,chevrolet,1500,2015,clean vehicle,brown,missouri, usa,2 days left,111651.18118
+17300,chevrolet,equinox,2020,clean vehicle,black,nevada, usa,2 days left,25068.68918
+30500,chevrolet,traverse,2020,clean vehicle,silver,nevada, usa,2 days left,37771.2098
+25000,chevrolet,impala,2020,clean vehicle,silver,nevada, usa,6 hours left,30118.7981
+36400,chevrolet,suburban,2019,clean vehicle,silver,nevada, usa,2 days left,57461.4847
+34800,chevrolet,suburban,2019,clean vehicle,silver,nevada, usa,2 days left,78828.69188
+20700,chevrolet,ld,2019,clean vehicle,white,nevada, usa,2 days left,54307.1783
+32200,chevrolet,suburban,2019,clean vehicle,silver,nevada, usa,2 days left,68021.97378
+35300,chevrolet,tahoe,2019,clean vehicle,black,nevada, usa,2 days left,75418.50042
+33500,chevrolet,suburban,2019,clean vehicle,white,nevada, usa,2 days left,58649.17762
+13700,chevrolet,impala,2019,clean vehicle,blue,nevada, usa,9 minutes,24041.93026
+15900,chevrolet,malibu,2019,clean vehicle,black,nevada, usa,1 hours left,35447.32284
+33200,chevrolet,suburban,2019,clean vehicle,black,nevada, usa,2 days left,61602.31652
+35500,chevrolet,suburban,2019,clean vehicle,silver,nevada, usa,2 days left,74269.43166
+29800,chevrolet,suburban,2018,clean vehicle,silver,nevada, usa,2 days left,77935.50818
+29800,chevrolet,suburban,2018,clean vehicle,gray,nevada, usa,2 days left,78547.05738
+29500,chevrolet,suburban,2018,clean vehicle,silver,nevada, usa,2 days left,84680.25212
+30300,chevrolet,suburban,2018,clean vehicle,white,nevada, usa,2 days left,74824.65396
+24300,chevrolet,1500,2018,clean vehicle,black,new york, usa,18 hours left,90599.40464
+29800,chevrolet,suburban,2017,clean vehicle,silver,nevada, usa,2 days left,54571.11006
+29800,chevrolet,suburban,2017,clean vehicle,white,nevada, usa,2 days left,53153.28152
+27500,chevrolet,camaro,2016,clean vehicle,white,nevada, usa,Listing Expired,71861.85902
+10800,chevrolet,door,2017,clean vehicle,gray,new jersey, usa,18 hours left,129577.61944
+11500,chevrolet,van,2017,clean vehicle,white,new jersey, usa,18 hours left,169223.71034
+10400,chevrolet,van,2017,clean vehicle,white,new jersey, usa,18 hours left,126120.75712
+11400,chevrolet,equinox,2018,clean vehicle,white,florida, usa,Listing Expired,127067.04904
+11400,chevrolet,equinox,2018,clean vehicle,white,florida, usa,Listing Expired,142529.58776
+25000,chevrolet,door,2015,clean vehicle,black,nevada, usa,Listing Expired,130269.63564
+12300,chevrolet,traverse,2017,clean vehicle,gray,new york, usa,18 hours left,133845.58912
+14100,chevrolet,traverse,2017,clean vehicle,white,new york, usa,18 hours left,94316.98004
+22500,chevrolet,van,2019,clean vehicle,white,texas, usa,2 days left,13116.121
+22600,chevrolet,van,2019,clean vehicle,white,texas, usa,2 days left,9911.92506
+22600,chevrolet,van,2019,clean vehicle,white,texas, usa,2 days left,9556.26092
+22500,chevrolet,van,2019,clean vehicle,white,texas, usa,2 days left,14514.63746
+10200,chevrolet,malibu,2018,clean vehicle,white,texas, usa,2 days left,73765.70823999999
+42700,chevrolet,3500,2016,clean vehicle,white,texas, usa,2 days left,96906.4081
+21200,chevrolet,tahoe,2015,clean vehicle,white,texas, usa,2 days left,201983.43538
+22700,chevrolet,door,2016,clean vehicle,white,texas, usa,2 days left,146359.81696
+22000,chevrolet,tahoe,2015,clean vehicle,gray,texas, usa,2 days left,133229.2119
+10500,chevrolet,door,2013,clean vehicle,silver,texas, usa,2 days left,180675.77378
+14200,chevrolet,door,2013,clean vehicle,black,texas, usa,2 days left,132839.75162
+15500,chevrolet,equinox,2019,clean vehicle,white,florida, usa,6 hours left,21777.58888
+35100,chevrolet,1500,2018,clean vehicle,blue,kansas, usa,2 days left,23739.37434
+26300,chevrolet,camaro,2018,clean vehicle,gray,kansas, usa,2 days left,17944.141
+15700,chevrolet,colorado,2016,clean vehicle,white,new jersey, usa,18 hours left,146849.05632
+17600,chevrolet,1500,2016,clean vehicle,white,new jersey, usa,18 hours left,105147.83824
+18600,chevrolet,1500,2016,clean vehicle,white,new jersey, usa,18 hours left,78815.81716
+19100,chevrolet,1500,2016,clean vehicle,white,new jersey, usa,18 hours left,64391.30274
+15200,chevrolet,equinox,2019,clean vehicle,black,north carolina, usa,2 days left,60260.12696
+16100,chevrolet,equinox,2019,clean vehicle,white,north carolina, usa,2 days left,69521.87866
+14800,chevrolet,equinox,2019,clean vehicle,charcoal,north carolina, usa,2 days left,70149.52126
+16700,chevrolet,equinox,2019,clean vehicle,charcoal,north carolina, usa,2 days left,52899.0058
+15300,chevrolet,equinox,2019,clean vehicle,charcoal,north carolina, usa,2 days left,62484.23484
+16500,chevrolet,equinox,2019,clean vehicle,charcoal,north carolina, usa,2 days left,54297.52226
+19600,chevrolet,passenger,2019,clean vehicle,white,north carolina, usa,2 days left,56824.18606
+15200,chevrolet,impala,2019,clean vehicle,red,north carolina, usa,2 days left,51897.99632
+15000,chevrolet,impala,2019,clean vehicle,silver,north carolina, usa,2 days left,58201.7811
+15500,chevrolet,impala,2019,clean vehicle,charcoal,north carolina, usa,2 days left,48154.67148
+15700,chevrolet,impala,2019,clean vehicle,silver,north carolina, usa,2 days left,43207.56032
+14800,chevrolet,impala,2019,clean vehicle,charcoal,north carolina, usa,2 days left,66245.26242
+11400,chevrolet,door,2013,clean vehicle,silver,new jersey, usa,18 hours left,147476.69892
+11500,chevrolet,door,2014,clean vehicle,gray,north carolina, usa,2 days left,151850.88504
+23800,chevrolet,door,2015,clean vehicle,black,florida, usa,2 hours left,138068.49728
+28300,chevrolet,ld,2019,clean vehicle,red,indiana, usa,2 days left,44522.3911
+27300,chevrolet,ld,2019,clean vehicle,black,indiana, usa,2 days left,40920.68818
+28300,chevrolet,colorado,2020,clean vehicle,silver,indiana, usa,2 days left,22347.29524
+18300,chevrolet,impala,2019,clean vehicle,silver,indiana, usa,2 days left,55583.38492
+22500,dodge,charger,2018,clean vehicle,silver,wisconsin, usa,2 days left,33112.1705
+22500,dodge,charger,2018,clean vehicle,gray,wisconsin, usa,4 days left,41884.68284
+16500,dodge,caravan,2019,clean vehicle,gray,nebraska, usa,5 hours left,43978.43418
+14500,dodge,journey,2019,clean vehicle,silver,nebraska, usa,5 hours left,48648.73886
+30000,dodge,charger,2019,clean vehicle,white,ontario, canada,10 days left,69674.76596
+30000,dodge,charger,2019,clean vehicle,orange,ontario, canada,10 days left,87401.64606
+30000,dodge,charger,2019,clean vehicle,white,ontario, canada,10 days left,85008.55748
+30000,dodge,charger,2019,clean vehicle,white,ontario, canada,10 days left,73311.87436
+30000,dodge,charger,2019,clean vehicle,white,ontario, canada,10 days left,60411.40492
+29500,dodge,charger,2019,clean vehicle,red,ontario, canada,10 days left,56573.12902
+21600,dodge,challenger,2019,clean vehicle,white,washington, usa,2 days left,38274.93322
+22600,dodge,charger,2019,clean vehicle,black,washington, usa,2 days left,49501.68906
+16300,dodge,caravan,2019,clean vehicle,gray,washington, usa,2 days left,62638.73148
+28800,dodge,durango,2019,clean vehicle,no_color,texas, usa,21 hours left,30955.6549
+22100,dodge,challenger,2019,clean vehicle,gray,texas, usa,21 hours left,15200.2163
+14300,dodge,journey,2018,clean vehicle,gray,north carolina, usa,21 hours left,30841.39176
+13700,dodge,caravan,2018,clean vehicle,white,north carolina, usa,21 hours left,87074.95004
+29500,dodge,challenger,2017,clean vehicle,no_color,arizona, usa,21 hours left,51580.95634
+18500,dodge,journey,2017,clean vehicle,gray,texas, usa,21 hours left,23930.8858
+19000,dodge,door,2016,clean vehicle,blue,colorado, usa,21 hours left,51972.02596
+43400,dodge,challenger,2015,clean vehicle,white,arizona, usa,2 days left,11667.715
+46000,dodge,challenger,2015,clean vehicle,no_color,arizona, usa,21 hours left,16326.7543
+12500,dodge,journey,2018,clean vehicle,silver,texas, usa,2 days left,96438.09015999999
+13900,dodge,charger,2017,clean vehicle,black,florida, usa,1 days left,34285.37936
+13000,dodge,caravan,2018,clean vehicle,white,california, usa,1 days left,83812.81786
+13000,dodge,caravan,2018,clean vehicle,white,california, usa,1 days left,88449.3264
+17500,dodge,caravan,2019,clean vehicle,black,florida, usa,2 days left,38603.23858
+11500,dodge,caravan,2018,clean vehicle,no_color,pennsylvania, usa,21 hours left,80777.60262
+18700,dodge,challenger,2018,clean vehicle,gray,new jersey, usa,Listing Expired,58512.38372
+27900,dodge,charger,2017,clean vehicle,orange,florida, usa,2 days left,87131.27694
+14500,dodge,door,2016,clean vehicle,white,pennsylvania, usa,21 hours left,132352.1216
+20200,dodge,caravan,2019,clean vehicle,black,illinois, usa,20 hours left,39786.10348
+29300,dodge,durango,2019,clean vehicle,silver,illinois, usa,20 hours left,66301.58932
+31000,dodge,durango,2019,clean vehicle,black,illinois, usa,24 hours left,42410.93702
+32400,dodge,durango,2019,clean vehicle,white,illinois, usa,1 days left,45512.1352
+21500,dodge,charger,2019,clean vehicle,black,texas, usa,19 hours left,24687.2756
+23100,dodge,charger,2018,clean vehicle,silver,michigan, usa,21 hours left,19738.5551
+24800,dodge,charger,2018,clean vehicle,silver,michigan, usa,21 hours left,28881.21564
+23000,dodge,charger,2018,clean vehicle,gray,michigan, usa,21 hours left,43445.74264
+26900,dodge,journey,2019,clean vehicle,gray,wisconsin, usa,21 hours left,9293.9385
+21500,dodge,challenger,2018,clean vehicle,gray,wisconsin, usa,2 days left,10859.82632
+15700,dodge,journey,2018,clean vehicle,white,wisconsin, usa,21 hours left,61360.91552
+15200,dodge,caravan,2018,clean vehicle,silver,wisconsin, usa,21 hours left,67006.48024
+23300,dodge,charger,2018,clean vehicle,blue,wisconsin, usa,2 days left,8624.45306
+20000,dodge,journey,2017,clean vehicle,green,wisconsin, usa,21 hours left,18259.57164
+53000,dodge,challenger,2017,clean vehicle,no_color,illinois, usa,21 hours left,11933.2561
+18200,dodge,door,2016,clean vehicle,black,new jersey, usa,7 hours left,81495.36826
+21800,dodge,challenger,2019,clean vehicle,gray,arizona, usa,2 days left,10508.9902
+52000,dodge,charger,2016,clean vehicle,blue,illinois, usa,2 days left,28054.01488
+19000,dodge,charger,2019,clean vehicle,black,arizona, usa,2 days left,31601.00024
+25000,dodge,challenger,2016,clean vehicle,no_color,illinois, usa,2 days left,67186.72632
+36000,dodge,challenger,2016,clean vehicle,red,illinois, usa,2 days left,21182.13308
+17000,dodge,caravan,2019,clean vehicle,white,georgia, usa,8 days left,53006.83158
+25300,dodge,door,2015,clean vehicle,red,wisconsin, usa,21 hours left,37167.7073
+14900,dodge,journey,2017,clean vehicle,gray,wisconsin, usa,22 hours left,55412.79488
+15000,dodge,caravan,2017,clean vehicle,no_color,wisconsin, usa,21 hours left,77509.03308
+12995,dodge,doors,2014,clean vehicle,gray,massachusetts, usa,8 days left,109934.0154
+17750,dodge,doors,2014,clean vehicle,black,massachusetts, usa,8 days left,77248.31999999999
+10295,dodge,doors,2014,clean vehicle,black,pennsylvania, usa,8 days left,170528.88508
+16995,dodge,doors,2014,clean vehicle,gray,connecticut, usa,8 days left,155422.0105
+20999,dodge,doors,2014,clean vehicle,silver,new york, usa,8 days left,59677.54588
+21232,dodge,charger,2019,clean vehicle,gray,texas, usa,4 days left,7966.233
+29000,dodge,door,2012,clean vehicle,black,illinois, usa,21 hours left,25631.95818
+17000,dodge,caravan,2018,clean vehicle,gray,new jersey, usa,2 days left,58417.43266
+13800,dodge,journey,2018,clean vehicle,red,florida, usa,23 hours left,45816.30046
+30000,dodge,durango,2019,clean vehicle,gray,missouri, usa,8 days left,46809.26324
+14800,dodge,caravan,2017,clean vehicle,gray,florida, usa,23 hours left,57921.75594
+28700,dodge,charger,2018,clean vehicle,blue,california, usa,21 hours left,31601.00024
+18500,dodge,challenger,2018,clean vehicle,gray,california, usa,2 days left,55155.30048
+17300,dodge,challenger,2018,clean vehicle,no_color,california, usa,2 days left,69055.17006
+30700,dodge,durango,2017,clean vehicle,no_color,california, usa,21 hours left,32714.66352
+26500,dodge,durango,2019,clean vehicle,gray,california, usa,8 days left,45948.26634
+20800,dodge,charger,2019,clean vehicle,gray,california, usa,8 days left,56484.61532
+20800,dodge,charger,2019,clean vehicle,gray,california, usa,8 days left,56914.3091
+18900,dodge,challenger,2019,clean vehicle,black,california, usa,8 days left,44992.31838
+24000,dodge,durango,2019,clean vehicle,silver,california, usa,8 days left,48539.30374
+38800,dodge,challenger,2015,clean vehicle,white,california, usa,2 days left,42312.76728
+24500,dodge,durango,2019,clean vehicle,white,california, usa,8 days left,41488.7852
+24500,dodge,durango,2019,clean vehicle,black,california, usa,8 days left,40284.99888
+24000,dodge,durango,2019,clean vehicle,gray,california, usa,8 days left,49294.0842
+18000,dodge,door,2014,clean vehicle,no_color,california, usa,21 hours left,138604.4075
+24000,dodge,durango,2019,clean vehicle,white,california, usa,8 days left,48936.81072
+23500,dodge,durango,2019,clean vehicle,silver,california, usa,8 days left,57039.83762
+25900,dodge,durango,2019,clean vehicle,silver,california, usa,8 days left,52664.04216
+13900,dodge,caravan,2019,clean vehicle,gray,california, usa,8 days left,72563.53126
+14200,dodge,journey,2019,clean vehicle,silver,california, usa,8 days left,57852.55432
+15400,dodge,caravan,2019,clean vehicle,blue,california, usa,8 days left,66950.15334
+17500,dodge,challenger,2019,clean vehicle,gray,texas, usa,1 days left,42438.2958
+17500,dodge,caravan,2019,clean vehicle,white,texas, usa,2 days left,29404.25114
+18000,dodge,caravan,2019,clean vehicle,white,texas, usa,1 days left,15250.10584
+25200,dodge,door,2012,clean vehicle,gray,new jersey, usa,2 days left,130193.99666
+14100,dodge,caravan,2018,clean vehicle,black,texas, usa,2 days left,92366.45996
+13300,dodge,caravan,2018,clean vehicle,white,california, usa,8 days left,67898.0546
+16200,dodge,caravan,2019,clean vehicle,black,oklahoma, usa,21 hours left,36356.59994
+13300,dodge,caravan,2018,clean vehicle,gray,california, usa,8 days left,78344.28053999999
+13100,dodge,caravan,2018,clean vehicle,silver,california, usa,8 days left,68591.68014
+15500,dodge,caravan,2017,clean vehicle,silver,california, usa,8 days left,44676.88774
+28400,dodge,durango,2019,clean vehicle,gray,colorado, usa,3 days left,23102.0757
+17400,dodge,caravan,2019,clean vehicle,gray,colorado, usa,3 days left,15235.62178
+20700,dodge,challenger,2019,clean vehicle,gray,virginia, usa,2 days left,29471.84342
+20300,dodge,challenger,2019,clean vehicle,black,virginia, usa,2 days left,31391.78604
+14000,dodge,journey,2018,clean vehicle,black,oklahoma, usa,21 hours left,23737.765
+22000,dodge,challenger,2019,clean vehicle,green,virginia, usa,2 days left,18153.355199999998
+17200,dodge,journey,2019,clean vehicle,blue,virginia, usa,2 days left,22440.63696
+15000,dodge,door,2016,clean vehicle,blue,oklahoma, usa,21 hours left,43326.65148
+17500,dodge,journey,2019,clean vehicle,gray,virginia, usa,2 days left,20422.5246
+16300,dodge,caravan,2019,clean vehicle,red,florida, usa,21 hours left,45526.61926
+15700,dodge,caravan,2019,clean vehicle,red,florida, usa,21 hours left,61220.90294
+23100,dodge,charger,2019,clean vehicle,white,florida, usa,21 hours left,55346.81194
+14900,dodge,caravan,2019,clean vehicle,red,florida, usa,21 hours left,63593.0701
+16700,dodge,journey,2019,clean vehicle,orange,virginia, usa,2 days left,35524.57116
+16300,dodge,caravan,2019,clean vehicle,white,florida, usa,21 hours left,46320.02388
+25800,dodge,durango,2019,clean vehicle,red,north carolina, usa,21 hours left,48428.25928
+23800,dodge,challenger,2019,clean vehicle,black,north carolina, usa,21 hours left,42555.77762
+16800,dodge,journey,2019,clean vehicle,red,north carolina, usa,21 hours left,46640.28254
+15500,dodge,journey,2019,clean vehicle,white,north carolina, usa,21 hours left,52890.9591
+26900,dodge,durango,2019,clean vehicle,white,arizona, usa,20 hours left,26388.34798
+16900,dodge,caravan,2019,clean vehicle,white,arizona, usa,20 hours left,26032.68384
+19500,dodge,caravan,2019,clean vehicle,gray,arizona, usa,20 hours left,1755.78994
+15400,dodge,caravan,2019,clean vehicle,black,arizona, usa,20 hours left,28118.38848
+17000,dodge,charger,2019,clean vehicle,red,california, usa,1 days left,16642.18494
+34000,dodge,durango,2019,clean vehicle,black,new jersey, usa,2 hours left,31695.9513
+13700,dodge,journey,2017,clean vehicle,black,pennsylvania, usa,1 days left,82142.32294
+19100,dodge,challenger,2018,clean vehicle,white,west virginia, usa,2 days left,36445.11364
+11800,dodge,journey,2018,clean vehicle,white,west virginia, usa,2 days left,29190.20892
+27500,dodge,durango,2019,clean vehicle,gray,nevada, usa,6 hours left,38603.23858
+26900,dodge,durango,2019,clean vehicle,black,nevada, usa,6 hours left,27616.2744
+27100,dodge,durango,2019,clean vehicle,white,nevada, usa,6 hours left,43337.91686
+27200,dodge,durango,2019,clean vehicle,white,nevada, usa,6 hours left,41545.1121
+22500,dodge,challenger,2019,clean vehicle,gray,south carolina, usa,21 hours left,8046.7
+21500,dodge,charger,2019,clean vehicle,black,pennsylvania, usa,6 days left,56573.12902
+18800,dodge,challenger,2019,clean vehicle,orange,pennsylvania, usa,6 days left,42605.66716
+21800,dodge,charger,2019,clean vehicle,red,pennsylvania, usa,6 days left,49797.80762
+20300,dodge,challenger,2019,clean vehicle,black,pennsylvania, usa,6 days left,27606.61836
+19000,dodge,caravan,2019,clean vehicle,red,pennsylvania, usa,6 days left,19510.02882
+19500,dodge,caravan,2019,clean vehicle,blue,pennsylvania, usa,6 days left,16449.06414
+19500,dodge,challenger,2019,clean vehicle,gray,pennsylvania, usa,6 days left,21656.88838
+20500,dodge,challenger,2019,clean vehicle,gray,pennsylvania, usa,6 days left,21758.2768
+20800,dodge,door,2014,clean vehicle,black,missouri, usa,21 hours left,116828.42796
+28500,dodge,durango,2019,clean vehicle,silver,pennsylvania, usa,6 days left,28800.74864
+21900,dodge,caravan,2019,clean vehicle,silver,pennsylvania, usa,6 days left,17844.36192
+15800,dodge,caravan,2019,clean vehicle,black,nevada, usa,2 days left,47583.35578
+33000,dodge,durango,2019,clean vehicle,white,colorado, usa,16 hours left,25194.2177
+22700,dodge,challenger,2019,clean vehicle,black,nevada, usa,2 days left,42531.63752
+21900,dodge,charger,2019,clean vehicle,white,pennsylvania, usa,6 days left,46675.68802
+19300,dodge,charger,2019,clean vehicle,red,pennsylvania, usa,6 days left,51867.41886
+30700,dodge,durango,2019,clean vehicle,black,nevada, usa,2 days left,42652.33802
+19300,dodge,challenger,2019,clean vehicle,black,pennsylvania, usa,6 days left,24857.86564
+13750,dodge,caravan,2014,clean vehicle,white,california, usa,5 hours left,206890.31304
+16400,dodge,caravan,2019,clean vehicle,silver,nevada, usa,2 days left,37608.66646
+19500,dodge,caravan,2019,clean vehicle,black,pennsylvania, usa,6 days left,14109.08378
+15100,dodge,caravan,2019,clean vehicle,white,nevada, usa,2 days left,77761.69946
+28500,dodge,durango,2019,clean vehicle,black,pennsylvania, usa,6 days left,24582.6685
+15300,dodge,caravan,2019,clean vehicle,white,nevada, usa,2 days left,54437.53484
+20300,dodge,challenger,2019,clean vehicle,white,pennsylvania, usa,6 days left,26842.18186
+22000,dodge,charger,2019,clean vehicle,gray,pennsylvania, usa,6 days left,42138.95856
+16700,dodge,journey,2019,clean vehicle,gray,nevada, usa,2 days left,34122.83602
+19300,dodge,challenger,2019,clean vehicle,black,pennsylvania, usa,6 days left,28758.9058
+34100,dodge,durango,2019,clean vehicle,gray,michigan, usa,21 hours left,28821.67006
+14600,dodge,caravan,2019,clean vehicle,silver,nevada, usa,2 days left,66185.71684
+18200,dodge,caravan,2019,clean vehicle,red,pennsylvania, usa,6 days left,22688.47532
+33800,dodge,durango,2019,clean vehicle,black,michigan, usa,21 hours left,24144.92802
+15900,dodge,journey,2019,clean vehicle,black,nevada, usa,2 days left,46839.8407
+16500,dodge,caravan,2019,clean vehicle,black,pennsylvania, usa,6 days left,55995.37596
+29600,dodge,durango,2019,clean vehicle,silver,michigan, usa,21 hours left,32241.51756
+14100,dodge,caravan,2019,clean vehicle,black,nevada, usa,2 days left,75545.63828
+18200,dodge,caravan,2019,clean vehicle,white,pennsylvania, usa,6 days left,23742.59302
+18200,dodge,caravan,2019,clean vehicle,black,pennsylvania, usa,6 days left,23108.51306
+24300,dodge,charger,2019,clean vehicle,black,michigan, usa,21 hours left,56201.37148
+15400,dodge,journey,2019,clean vehicle,white,nevada, usa,2 days left,33706.01696
+19000,dodge,journey,2019,clean vehicle,white,pennsylvania, usa,6 days left,15895.45118
+19000,dodge,journey,2019,clean vehicle,black,pennsylvania, usa,6 days left,14401.98366
+27800,dodge,challenger,2017,clean vehicle,gray,georgia, usa,21 hours left,21930.47618
+18200,dodge,journey,2019,clean vehicle,blue,pennsylvania, usa,6 days left,29436.43794
+15000,dodge,journey,2018,clean vehicle,white,pennsylvania, usa,6 days left,61201.59086
+19200,dodge,caravan,2017,clean vehicle,gray,michigan, usa,21 hours left,52453.21862
+15500,dodge,caravan,2018,clean vehicle,red,pennsylvania, usa,6 days left,60112.06768
+24900,dodge,challenger,2017,clean vehicle,green,michigan, usa,21 hours left,37063.1002
+15500,dodge,journey,2018,clean vehicle,red,pennsylvania, usa,6 days left,49360.06714
+18400,dodge,journey,2017,clean vehicle,black,michigan, usa,21 hours left,24183.55218
+14700,dodge,caravan,2018,clean vehicle,white,florida, usa,24 hours left,46855.9341
+17200,dodge,caravan,2019,clean vehicle,silver,minnesota, usa,14 hours left,56972.24534
+18700,dodge,caravan,2019,clean vehicle,red,minnesota, usa,14 hours left,32635.80586
+32000,dodge,durango,2019,clean vehicle,red,minnesota, usa,14 hours left,41987.6806
+14500,dodge,door,2015,clean vehicle,white,michigan, usa,21 hours left,173686.41016
+19400,dodge,caravan,2019,clean vehicle,black,minnesota, usa,14 hours left,23988.82204
+17300,dodge,caravan,2019,clean vehicle,black,minnesota, usa,14 hours left,55372.56138
+16700,dodge,journey,2019,clean vehicle,orange,minnesota, usa,14 hours left,29046.97766
+19100,dodge,caravan,2019,clean vehicle,white,minnesota, usa,14 hours left,29180.55288
+11100,dodge,door,2013,clean vehicle,black,illinois, usa,21 hours left,175701.30384
+32000,dodge,durango,2019,clean vehicle,black,minnesota, usa,14 hours left,40967.35904
+16900,dodge,caravan,2019,clean vehicle,silver,minnesota, usa,14 hours left,61758.4225
+18000,dodge,charger,2017,clean vehicle,blue,massachusetts, usa,6 days left,64038.85728
+17800,dodge,caravan,2019,clean vehicle,white,minnesota, usa,14 hours left,48928.76402
+18000,dodge,caravan,2019,clean vehicle,white,minnesota, usa,14 hours left,45467.07368
+17500,dodge,caravan,2019,clean vehicle,white,minnesota, usa,14 hours left,51344.38336
+14500,dodge,caravan,2018,clean vehicle,silver,nevada, usa,2 days left,39164.89824
+18500,dodge,caravan,2019,clean vehicle,silver,minnesota, usa,14 hours left,38561.39574
+18600,dodge,caravan,2019,clean vehicle,silver,minnesota, usa,14 hours left,36884.46346
+32000,dodge,durango,2019,clean vehicle,red,minnesota, usa,14 hours left,36794.34042
+17000,dodge,caravan,2019,clean vehicle,black,minnesota, usa,14 hours left,62469.75078
+16000,dodge,caravan,2019,clean vehicle,white,minnesota, usa,14 hours left,78622.69636
+18000,dodge,caravan,2019,clean vehicle,white,minnesota, usa,14 hours left,43915.66992
+15900,dodge,charger,2020,clean vehicle,orange,pennsylvania, usa,2 days left,8503.75256
+24000,dodge,door,2012,clean vehicle,white,mississippi, usa,21 hours left,142489.35426
+20800,dodge,van,2013,clean vehicle,gold,nevada, usa,2 days left,54297.52226
+18500,dodge,door,2012,clean vehicle,white,mississippi, usa,21 hours left,162570.69878
+18300,dodge,challenger,2019,clean vehicle,black,pennsylvania, usa,2 days left,22379.48204
+21000,dodge,charger,2019,clean vehicle,gray,pennsylvania, usa,3 days left,33154.01334
+11900,dodge,charger,2019,clean vehicle,gray,pennsylvania, usa,2 days left,37692.35214
+26800,dodge,durango,2019,clean vehicle,gray,pennsylvania, usa,2 days left,34293.42606
+21000,dodge,caravan,2019,clean vehicle,white,pennsylvania, usa,2 days left,16656.669
+33500,dodge,durango,2019,clean vehicle,white,pennsylvania, usa,3 days left,13848.3707
+21000,dodge,caravan,2019,clean vehicle,gray,pennsylvania, usa,2 days left,16366.9878
+26800,dodge,durango,2019,clean vehicle,silver,pennsylvania, usa,2 days left,35843.220479999996
+18500,dodge,challenger,2019,clean vehicle,green,pennsylvania, usa,2 days left,43482.75746
+33000,dodge,durango,2019,clean vehicle,white,pennsylvania, usa,3 days left,17590.0862
+11000,dodge,caravan,2019,clean vehicle,silver,texas, usa,2 days left,118370.17568
+15800,dodge,caravan,2019,clean vehicle,blue,pennsylvania, usa,2 days left,59717.77938
+16300,dodge,caravan,2019,clean vehicle,white,pennsylvania, usa,2 days left,59534.31462
+12800,dodge,caravan,2019,clean vehicle,no_color,pennsylvania, usa,2 days left,54041.6372
+18300,dodge,journey,2019,clean vehicle,silver,pennsylvania, usa,2 days left,16812.77498
+16000,dodge,charger,2019,clean vehicle,silver,illinois, usa,19 hours left,16461.93886
+21000,dodge,caravan,2019,clean vehicle,gray,pennsylvania, usa,3 days left,10088.95246
+33000,dodge,durango,2019,clean vehicle,gray,illinois, usa,2 days left,17108.89354
+14700,dodge,caravan,2019,clean vehicle,silver,pennsylvania, usa,2 days left,71424.11854
+33000,dodge,durango,2019,clean vehicle,silver,illinois, usa,2 days left,22466.3864
+15900,dodge,caravan,2019,clean vehicle,white,pennsylvania, usa,2 days left,22612.83634
+33000,dodge,durango,2019,clean vehicle,gray,illinois, usa,2 days left,33474.272
+33000,dodge,durango,2019,clean vehicle,gray,illinois, usa,2 days left,14279.67382
+32500,dodge,durango,2019,clean vehicle,black,illinois, usa,2 days left,24947.98868
+33000,dodge,durango,2019,clean vehicle,silver,illinois, usa,2 days left,15560.70846
+13000,dodge,caravan,2018,clean vehicle,black,virginia, usa,8 days left,81871.95382
+33000,dodge,durango,2019,clean vehicle,white,illinois, usa,2 days left,22719.052779999998
+16500,dodge,charger,2019,clean vehicle,red,illinois, usa,19 hours left,75349.2988
+33000,dodge,durango,2019,clean vehicle,gray,illinois, usa,2 days left,11662.88698
+34500,dodge,challenger,2017,clean vehicle,red,north carolina, usa,Listing Expired,65968.45594
+33500,dodge,durango,2019,clean vehicle,white,illinois, usa,2 days left,14521.07482
+48000,dodge,durango,2018,clean vehicle,white,pennsylvania, usa,3 days left,12950.358979999999
+54500,dodge,durango,2019,clean vehicle,red,illinois, usa,2 days left,6382.64244
+13200,dodge,caravan,2018,clean vehicle,silver,pennsylvania, usa,3 days left,66005.47076
+31500,dodge,durango,2018,clean vehicle,white,illinois, usa,2 days left,33646.47138
+17400,dodge,durango,2017,clean vehicle,red,illinois, usa,2 days left,144510.6853
+26000,dodge,durango,2017,clean vehicle,white,illinois, usa,2 days left,91986.65572
+11000,dodge,door,2013,clean vehicle,white,illinois, usa,2 days left,135145.93584
+21000,dodge,charger,2018,clean vehicle,gray,texas, usa,10 days left,20203.65436
+15800,dodge,caravan,2019,clean vehicle,silver,michigan, usa,21 hours left,45122.67492
+16900,dodge,journey,2019,clean vehicle,red,michigan, usa,21 hours left,42877.64562
+25000,dodge,durango,2019,clean vehicle,white,michigan, usa,21 hours left,58140.62618
+18000,dodge,door,2019,salvage insurance,black,massachusetts, usa,3 days left,32159.44122
+15600,dodge,caravan,2019,clean vehicle,black,michigan, usa,21 hours left,48161.10884
+23800,dodge,durango,2019,clean vehicle,white,north carolina, usa,2 days left,59143.245
+16800,dodge,journey,2019,clean vehicle,black,michigan, usa,21 hours left,43954.29408
+22700,dodge,durango,2019,clean vehicle,white,north carolina, usa,2 days left,79783.0305
+23300,dodge,challenger,2019,clean vehicle,red,north carolina, usa,2 days left,48729.20586
+23500,dodge,challenger,2019,clean vehicle,white,north carolina, usa,2 days left,41561.2055
+25500,dodge,durango,2019,clean vehicle,silver,north carolina, usa,2 days left,52261.70716
+21800,dodge,challenger,2019,clean vehicle,white,north carolina, usa,2 days left,49221.6639
+22800,dodge,durango,2019,clean vehicle,gray,north carolina, usa,2 days left,58262.93602
+18200,dodge,caravan,2019,clean vehicle,red,michigan, usa,21 hours left,47639.68268
+23500,dodge,challenger,2019,clean vehicle,red,north carolina, usa,2 days left,46170.35526
+25700,dodge,durango,2019,clean vehicle,charcoal,north carolina, usa,2 days left,50608.91498
+15700,dodge,caravan,2019,clean vehicle,white,north carolina, usa,2 days left,63002.44232
+17500,dodge,journey,2018,clean vehicle,silver,michigan, usa,21 hours left,53904.8433
+15700,dodge,caravan,2019,clean vehicle,white,north carolina, usa,2 days left,56767.85916
+16500,dodge,caravan,2018,clean vehicle,white,indiana, usa,21 hours left,78447.2783
+16100,dodge,caravan,2019,clean vehicle,red,north carolina, usa,2 days left,50367.51398
+15600,dodge,caravan,2019,clean vehicle,charcoal,north carolina, usa,2 days left,62353.8783
+15400,dodge,caravan,2019,clean vehicle,gray,north carolina, usa,2 days left,60678.55536
+28200,dodge,durango,2017,clean vehicle,white,michigan, usa,21 hours left,43548.7404
+15300,dodge,caravan,2019,clean vehicle,no_color,north carolina, usa,2 days left,64376.81868
+15900,dodge,caravan,2019,clean vehicle,red,north carolina, usa,2 days left,56214.2462
+17700,dodge,door,2016,clean vehicle,gray,indiana, usa,21 hours left,36794.34042
+15800,dodge,caravan,2019,clean vehicle,white,north carolina, usa,2 days left,59346.02184
+15900,dodge,caravan,2019,clean vehicle,charcoal,north carolina, usa,2 days left,55142.42576
+25300,dodge,charger,2019,clean vehicle,red,new mexico, usa,21 hours left,28187.5901
+16300,dodge,caravan,2019,clean vehicle,silver,north carolina, usa,2 days left,43566.44314
+29500,dodge,durango,2019,clean vehicle,gray,new mexico, usa,21 hours left,23586.48704
+14500,dodge,caravan,2019,clean vehicle,gray,north carolina, usa,2 days left,57376.18968
+15400,dodge,caravan,2019,clean vehicle,no_color,north carolina, usa,2 days left,48368.7137
+15400,dodge,caravan,2019,clean vehicle,charcoal,north carolina, usa,2 days left,69343.24192
+15000,dodge,caravan,2019,clean vehicle,black,north carolina, usa,2 days left,56000.20398
+15500,dodge,caravan,2019,clean vehicle,gray,north carolina, usa,2 days left,70719.22762
+15000,dodge,caravan,2019,clean vehicle,no_color,north carolina, usa,2 days left,57524.24896
+15200,dodge,caravan,2019,clean vehicle,no_color,north carolina, usa,2 days left,50761.802279999996
+15700,dodge,caravan,2019,clean vehicle,white,north carolina, usa,2 days left,43289.63666
+16100,dodge,journey,2019,clean vehicle,silver,north carolina, usa,2 days left,48256.0599
+16300,dodge,journey,2018,clean vehicle,silver,texas, usa,21 hours left,59560.06406
+16000,dodge,journey,2019,clean vehicle,white,north carolina, usa,2 days left,49456.62754
+16900,dodge,journey,2019,clean vehicle,silver,north carolina, usa,2 days left,48379.97908
+17000,dodge,journey,2019,clean vehicle,charcoal,north carolina, usa,2 days left,45536.2753
+17300,dodge,journey,2019,clean vehicle,silver,north carolina, usa,2 days left,41092.88756
+15900,dodge,journey,2019,clean vehicle,gray,north carolina, usa,2 days left,47823.14744
+15700,dodge,journey,2019,clean vehicle,silver,north carolina, usa,2 days left,55190.70596
+16900,dodge,journey,2019,clean vehicle,white,north carolina, usa,2 days left,44486.98562
+15500,dodge,journey,2019,clean vehicle,white,north carolina, usa,2 days left,57157.31944
+15100,dodge,journey,2019,clean vehicle,silver,north carolina, usa,2 days left,65458.29516
+15500,dodge,journey,2019,clean vehicle,white,north carolina, usa,2 days left,52293.89396
+15400,dodge,journey,2019,clean vehicle,red,north carolina, usa,2 days left,56402.53898
+16500,dodge,journey,2019,clean vehicle,silver,north carolina, usa,2 days left,52944.06732
+42500,dodge,challenger,2015,clean vehicle,black,texas, usa,21 hours left,22112.3316
+16600,dodge,journey,2019,clean vehicle,charcoal,north carolina, usa,2 days left,37227.25288
+15200,dodge,journey,2019,clean vehicle,silver,north carolina, usa,2 days left,59825.60516
+15800,dodge,journey,2019,clean vehicle,charcoal,north carolina, usa,2 days left,54754.57482
+16900,dodge,journey,2019,clean vehicle,charcoal,north carolina, usa,2 days left,48313.99614
+11100,dodge,caravan,2017,clean vehicle,gray,north carolina, usa,2 days left,82831.12046
+15600,dodge,journey,2019,clean vehicle,charcoal,north carolina, usa,2 days left,50270.95358
+16900,dodge,journey,2019,clean vehicle,silver,north carolina, usa,2 days left,48579.53724
+15300,dodge,journey,2019,clean vehicle,silver,north carolina, usa,2 days left,67521.46904
+16600,dodge,journey,2019,clean vehicle,black,north carolina, usa,2 days left,49450.19018
+21800,dodge,durango,2017,clean vehicle,black,pennsylvania, usa,2 days left,62693.44904
+36500,dodge,charger,2018,clean vehicle,white,virginia, usa,21 hours left,35463.41624
+26300,dodge,durango,2019,clean vehicle,red,georgia, usa,21 hours left,42586.35508
+20900,dodge,challenger,2019,clean vehicle,red,georgia, usa,21 hours left,37244.95562
+20100,dodge,challenger,2019,clean vehicle,gray,georgia, usa,21 hours left,27905.9556
+26700,dodge,charger,2019,clean vehicle,gray,georgia, usa,21 hours left,47876.25566
+23900,dodge,charger,2019,clean vehicle,white,georgia, usa,21 hours left,56726.01632
+14500,dodge,caravan,2018,clean vehicle,no_color,florida, usa,27 minutes,65044.69478
+23000,dodge,durango,2017,clean vehicle,gray,virginia, usa,21 hours left,48777.48606
+15000,dodge,journey,2018,clean vehicle,red,north carolina, usa,2 days left,68079.91002
+15000,dodge,journey,2018,clean vehicle,white,north carolina, usa,2 days left,56851.54484
+28500,ford,door,2017,clean vehicle,white,texas, usa,2 days left,148220.214
+28000,ford,door,2017,clean vehicle,white,texas, usa,2 days left,159928.1625
+25000,ford,door,2017,clean vehicle,white,texas, usa,2 days left,192217.96026
+17347,ford,doors,2015,clean vehicle,black,massachusetts, usa,12 days left,87541.65864
+13800,ford,door,2016,clean vehicle,white,texas, usa,5 hours left,147425.20004
+25888,ford,doors,2015,clean vehicle,black,new jersey, usa,12 days left,4517.41738
+21289,ford,doors,2015,clean vehicle,gray,new york, usa,12 days left,115800.0597
+13799,ford,doors,2015,clean vehicle,red,new jersey, usa,12 days left,134690.49262
+20500,ford,srw,2014,clean vehicle,white,arizona, usa,2 days left,146269.69392
+65500,ford,srw,2019,clean vehicle,black,indiana, usa,21 hours left,10460.71
+24500,ford,wagon,2018,clean vehicle,white,florida, usa,2 days left,64281.86762
+32500,ford,explorer,2020,clean vehicle,silver,missouri, usa,21 hours left,9527.2928
+17700,ford,door,2017,clean vehicle,silver,pennsylvania, usa,2 days left,192348.3168
+18300,ford,fusion,2020,clean vehicle,white,california, usa,1 days left,17512.83788
+43500,ford,srw,2019,clean vehicle,gray,illinois, usa,21 hours left,46686.9534
+15200,ford,door,2016,clean vehicle,white,pennsylvania, usa,2 days left,111049.28801999999
+36200,ford,srw,2019,clean vehicle,no_color,illinois, usa,21 hours left,26082.57338
+21900,ford,mustang,2018,clean vehicle,red,new jersey, usa,2 days left,47874.64632
+20700,ford,wagon,2019,clean vehicle,white,california, usa,1 days left,41170.13588
+12300,ford,fusion,2019,clean vehicle,gray,california, usa,1 days left,39461.0168
+19500,ford,transit,2019,clean vehicle,white,california, usa,1 days left,54981.49176
+14300,ford,fusion,2020,clean vehicle,silver,california, usa,1 days left,11225.1465
+13700,ford,van,2016,clean vehicle,white,pennsylvania, usa,2 days left,108067.181
+13200,ford,door,2015,clean vehicle,white,pennsylvania, usa,2 days left,162253.6588
+20000,ford,edge,2018,clean vehicle,silver,illinois, usa,4 days left,70114.11578
+33000,ford,door,2017,clean vehicle,white,texas, usa,6 days left,57942.67736
+23300,ford,f-150,2019,clean vehicle,white,south carolina, usa,21 hours left,17598.1329
+11975,ford,door,2012,clean vehicle,white,texas, usa,24 hours left,196362.01076
+23600,ford,transit,2019,clean vehicle,white,south carolina, usa,21 hours left,31161.650419999998
+12000,ford,explorer,2016,clean vehicle,black,texas, usa,19 hours left,69043.90468
+30900,ford,f-150,2018,clean vehicle,red,indiana, usa,21 hours left,645.34534
+23900,ford,transit,2019,clean vehicle,white,south carolina, usa,21 hours left,17826.65918
+40400,ford,f-150,2018,clean vehicle,black,indiana, usa,21 hours left,54878.494
+38000,ford,srw,2019,clean vehicle,white,minnesota, usa,6 days left,48309.16812
+27000,ford,flex,2019,clean vehicle,white,illinois, usa,2 days left,29417.12586
+24000,ford,transit,2019,clean vehicle,white,south carolina, usa,21 hours left,11865.66382
+30000,ford,ranger,2019,clean vehicle,gray,wisconsin, usa,21 hours left,4168.1906
+16200,ford,fusion,2019,clean vehicle,white,south carolina, usa,21 hours left,67048.32308
+30000,ford,flex,2019,clean vehicle,gray,wisconsin, usa,21 hours left,24170.67746
+23900,ford,transit,2019,clean vehicle,white,south carolina, usa,21 hours left,15159.9828
+13800,ford,taurus,2018,clean vehicle,white,missouri, usa,21 hours left,67373.40976
+23700,ford,transit,2019,clean vehicle,white,south carolina, usa,21 hours left,27083.58286
+24300,ford,f-150,2018,clean vehicle,gray,illinois, usa,21 hours left,10122.7486
+54900,ford,srw,2019,clean vehicle,black,nevada, usa,Listing Expired,23163.23062
+22500,ford,taurus,2018,clean vehicle,white,wisconsin, usa,2 days left,23494.75466
+39000,ford,f-150,2018,clean vehicle,gray,illinois, usa,2 days left,41583.73626
+13900,ford,escape,2018,clean vehicle,gray,wisconsin, usa,21 hours left,97711.0781
+24700,ford,explorer,2018,clean vehicle,red,illinois, usa,21 hours left,37578.089
+20100,ford,transit,2018,clean vehicle,white,california, usa,1 days left,100400.28524
+22000,ford,mustang,2018,clean vehicle,red,illinois, usa,2 days left,10055.15632
+38200,ford,mustang,2019,clean vehicle,green,florida, usa,1 days left,1413.00052
+24400,ford,transit,2018,clean vehicle,white,california, usa,1 days left,80000.2914
+35000,ford,mustang,2018,clean vehicle,blue,illinois, usa,21 hours left,3286.27228
+18600,ford,flex,2019,clean vehicle,white,florida, usa,2 days left,12459.51028
+22700,ford,transit,2018,clean vehicle,white,california, usa,1 days left,63943.90622
+38000,ford,f-150,2018,clean vehicle,black,illinois, usa,21 hours left,54236.36734
+17000,ford,door,2014,clean vehicle,red,illinois, usa,2 days left,108698.04228
+17500,ford,escape,2017,clean vehicle,gray,wisconsin, usa,2 days left,56479.787299999996
+23200,ford,f-150,2019,clean vehicle,white,michigan, usa,21 hours left,13924.00968
+30700,ford,explorer,2017,clean vehicle,red,wisconsin, usa,21 hours left,82248.53938
+23500,ford,transit,2019,clean vehicle,white,michigan, usa,21 hours left,24119.17858
+26400,ford,edge,2017,clean vehicle,blue,wisconsin, usa,2 days left,45467.07368
+23500,ford,transit,2019,clean vehicle,white,michigan, usa,21 hours left,25763.92406
+38000,ford,door,2017,clean vehicle,white,wisconsin, usa,2 days left,77032.66844
+23600,ford,transit,2019,clean vehicle,white,michigan, usa,21 hours left,17709.17736
+19300,ford,edge,2017,clean vehicle,gray,wisconsin, usa,21 hours left,69032.6393
+23200,ford,f-150,2019,clean vehicle,white,michigan, usa,21 hours left,15272.6366
+13800,ford,door,2017,clean vehicle,no_color,wisconsin, usa,21 hours left,62807.71218
+23600,ford,transit,2019,clean vehicle,white,michigan, usa,21 hours left,21671.37244
+23200,ford,f-150,2019,clean vehicle,white,michigan, usa,21 hours left,14060.80358
+40000,ford,door,2017,clean vehicle,red,wisconsin, usa,2 days left,38559.7864
+23400,ford,f-150,2019,clean vehicle,white,michigan, usa,21 hours left,8951.14908
+23600,ford,transit,2019,clean vehicle,white,michigan, usa,21 hours left,22149.34642
+23000,ford,f-150,2019,clean vehicle,white,michigan, usa,21 hours left,16807.94696
+25500,ford,door,2017,clean vehicle,black,wisconsin, usa,21 hours left,67103.04064
+23500,ford,transit,2019,clean vehicle,white,michigan, usa,21 hours left,25406.65058
+29900,ford,door,2017,clean vehicle,white,wisconsin, usa,2 days left,14752.81978
+23200,ford,transit,2019,clean vehicle,white,michigan, usa,21 hours left,28229.43294
+50500,ford,f-150,2017,clean vehicle,silver,wisconsin, usa,2 days left,39728.16724
+23400,ford,transit,2019,clean vehicle,white,michigan, usa,21 hours left,24478.0614
+24500,ford,transit,2017,clean vehicle,white,wisconsin, usa,2 days left,87871.57334
+49000,ford,mustang,2017,clean vehicle,black,illinois, usa,2 days left,3548.5947
+25400,ford,transit,2017,clean vehicle,white,wisconsin, usa,2 days left,57438.95394
+23000,ford,flex,2017,clean vehicle,silver,illinois, usa,21 hours left,52767.03992
+22400,ford,edge,2016,clean vehicle,black,wisconsin, usa,21 hours left,69080.9195
+22500,ford,edge,2016,clean vehicle,black,wisconsin, usa,2 days left,60165.1759
+25200,ford,edge,2019,clean vehicle,gray,virginia, usa,2 days left,24807.9761
+36000,ford,door,2016,clean vehicle,white,wisconsin, usa,2 days left,32262.43898
+26700,ford,edge,2019,clean vehicle,black,virginia, usa,2 days left,27172.096559999998
+30500,ford,door,2016,clean vehicle,gray,wisconsin, usa,21 hours left,93238.72224
+26700,ford,edge,2019,clean vehicle,black,virginia, usa,2 days left,24532.77896
+25000,ford,edge,2019,clean vehicle,gray,virginia, usa,2 days left,31932.52428
+35200,ford,door,2016,clean vehicle,white,wisconsin, usa,21 hours left,62490.6722
+30300,ford,f-150,2019,clean vehicle,white,tennessee, usa,21 hours left,51336.33666
+25000,ford,door,2016,clean vehicle,no_color,illinois, usa,2 days left,111535.3087
+26500,ford,door,2016,clean vehicle,red,wisconsin, usa,2 days left,74187.35532
+21600,ford,mustang,2019,clean vehicle,gray,virginia, usa,2 days left,47406.32838
+18800,ford,edge,2016,clean vehicle,no_color,wisconsin, usa,21 hours left,49511.3451
+21500,ford,mustang,2019,clean vehicle,red,virginia, usa,2 days left,46825.35664
+16700,ford,cutaway,2015,clean vehicle,white,wisconsin, usa,2 days left,111050.89736
+16800,ford,cutaway,2015,clean vehicle,white,wisconsin, usa,2 days left,104895.17186
+15700,ford,cutaway,2015,clean vehicle,white,wisconsin, usa,2 days left,122087.75108
+16800,ford,cutaway,2015,clean vehicle,white,wisconsin, usa,2 days left,109948.49946
+19500,ford,door,2015,clean vehicle,gray,wisconsin, usa,21 hours left,129316.90636
+20500,ford,door,2015,clean vehicle,black,wisconsin, usa,2 days left,82786.05894
+17400,ford,cutaway,2015,clean vehicle,white,wisconsin, usa,2 days left,114189.11036
+17500,ford,door,2014,clean vehicle,red,wisconsin, usa,21 hours left,148863.95
+26000,ford,door,2014,clean vehicle,silver,illinois, usa,21 hours left,106807.06778
+56700,ford,f-150,2019,clean vehicle,white,kentucky, usa,21 hours left,22344.07656
+40200,ford,f-150,2019,clean vehicle,no_color,kentucky, usa,21 hours left,42621.76056
+54000,ford,door,2013,clean vehicle,red,illinois, usa,21 hours left,1131.36602
+65200,ford,max,2019,clean vehicle,white,kentucky, usa,21 hours left,29190.20892
+32500,ford,srw,2017,clean vehicle,white,minnesota, usa,Listing Expired,45072.78538
+25500,ford,transit,2019,clean vehicle,white,illinois, usa,21 hours left,18106.68434
+63000,ford,srw,2019,clean vehicle,no_color,illinois, usa,21 hours left,18732.7176
+44000,ford,srw,2019,clean vehicle,white,illinois, usa,2 days left,17321.32642
+70000,ford,drw,2019,clean vehicle,no_color,illinois, usa,2 days left,15518.86562
+56200,ford,srw,2019,clean vehicle,gray,kentucky, usa,21 hours left,54604.9062
+35000,ford,srw,2019,clean vehicle,white,wisconsin, usa,2 days left,42568.65234
+57700,ford,srw,2019,clean vehicle,red,kentucky, usa,21 hours left,33958.68334
+74000,ford,drw,2019,clean vehicle,no_color,illinois, usa,2 days left,16956.00624
+60200,ford,srw,2019,clean vehicle,white,kentucky, usa,21 hours left,51086.88896
+60000,ford,srw,2018,clean vehicle,black,illinois, usa,2 days left,29067.89908
+63000,ford,srw,2018,clean vehicle,black,illinois, usa,21 hours left,28874.77828
+22500,ford,door,2014,clean vehicle,black,wisconsin, usa,2 days left,70241.25364
+21000,ford,door,2013,clean vehicle,brown,wisconsin, usa,2 days left,153508.50524
+19300,ford,fusion,2019,clean vehicle,black,mississippi, usa,21 hours left,38205.7316
+16400,ford,fusion,2019,clean vehicle,gray,alabama, usa,21 hours left,58039.237759999996
+27300,ford,f-150,2019,clean vehicle,gray,mississippi, usa,21 hours left,30263.6387
+26400,ford,cab,2012,clean vehicle,white,wisconsin, usa,2 days left,243066.6669
+35100,ford,mustang,2019,clean vehicle,red,mississippi, usa,21 hours left,16252.72466
+41500,ford,f-150,2018,clean vehicle,black,new jersey, usa,1 days left,15771.532
+34100,ford,mustang,2019,clean vehicle,white,mississippi, usa,21 hours left,16870.71122
+28600,ford,f-150,2019,clean vehicle,no_color,california, usa,21 hours left,28234.26096
+34100,ford,mustang,2019,clean vehicle,red,mississippi, usa,21 hours left,16362.15978
+28700,ford,ranger,2019,clean vehicle,gray,california, usa,21 hours left,18438.20838
+24700,ford,edge,2019,clean vehicle,no_color,california, usa,21 hours left,42792.3506
+46500,ford,expedition,2019,clean vehicle,black,california, usa,21 hours left,56883.73164
+29000,ford,f-150,2019,clean vehicle,black,california, usa,21 hours left,20845.78102
+25500,ford,edge,2019,clean vehicle,silver,california, usa,21 hours left,42958.11262
+30500,ford,f-150,2019,clean vehicle,gray,california, usa,2 days left,15956.606099999999
+16800,ford,fusion,2019,clean vehicle,red,california, usa,2 days left,15948.5594
+24000,ford,f-150,2019,clean vehicle,gray,texas, usa,6 days left,26980.5851
+58500,ford,expedition,2019,clean vehicle,gray,california, usa,21 hours left,7998.4198
+55000,ford,door,2017,clean vehicle,black,texas, usa,6 days left,70753.02376
+28800,ford,f-150,2019,clean vehicle,silver,california, usa,21 hours left,65636.9319
+26800,ford,door,2015,clean vehicle,white,new jersey, usa,24 hours left,175414.84132
+36000,ford,max,2018,clean vehicle,gray,wisconsin, usa,22 hours left,94268.69984
+20000,ford,wagon,2018,clean vehicle,white,wisconsin, usa,21 hours left,89278.1365
+46700,ford,drw,2019,clean vehicle,black,alabama, usa,21 hours left,57821.97686
+42800,ford,srw,2019,clean vehicle,silver,alabama, usa,21 hours left,34872.78846
+21800,ford,mustang,2018,clean vehicle,no_color,california, usa,21 hours left,25876.57786
+18800,ford,mustang,2018,clean vehicle,white,california, usa,2 days left,66219.51298
+18800,ford,flex,2018,clean vehicle,black,california, usa,21 hours left,73704.55332
+30200,ford,f-150,2018,clean vehicle,red,california, usa,21 hours left,34927.50602
+27500,ford,explorer,2018,clean vehicle,black,california, usa,2 days left,35862.53256
+37500,ford,transit,2018,clean vehicle,white,california, usa,2 days left,39536.65578
+19100,ford,mustang,2018,clean vehicle,silver,california, usa,2 days left,49236.14796
+17100,ford,flex,2018,clean vehicle,white,california, usa,21 hours left,84887.85698
+13500,ford,escape,2018,clean vehicle,silver,florida, usa,4 days left,34748.86928
+54500,ford,srw,2018,clean vehicle,blue,california, usa,2 days left,31950.22702
+16400,ford,f-150,2020,clean vehicle,black,pennsylvania, usa,2 days left,16658.27834
+17000,ford,fusion,2020,clean vehicle,gray,pennsylvania, usa,2 days left,1797.63278
+24800,ford,door,2017,clean vehicle,gold,california, usa,21 hours left,59994.58586
+26800,ford,door,2017,clean vehicle,red,california, usa,21 hours left,48462.05542
+19400,ford,door,2017,clean vehicle,white,california, usa,21 hours left,44369.5038
+20000,ford,flex,2017,clean vehicle,silver,california, usa,2 days left,72722.85592
+25100,ford,explorer,2017,clean vehicle,gold,california, usa,2 days left,40281.7802
+18200,ford,fusion,2020,clean vehicle,black,pennsylvania, usa,2 days left,15869.70174
+14200,ford,fusion,2018,clean vehicle,red,illinois, usa,2 days left,2817.95434
+56500,ford,door,2017,clean vehicle,red,california, usa,2 days left,49292.47486
+26500,ford,van,2020,clean vehicle,white,pennsylvania, usa,2 days left,196.33948
+34300,ford,srw,2019,clean vehicle,white,florida, usa,2 hours left,45920.90756
+43500,ford,f-150,2017,clean vehicle,black,california, usa,21 hours left,129872.12866
+37200,ford,srw,2019,clean vehicle,white,florida, usa,2 hours left,38749.68852
+12800,ford,door,2017,clean vehicle,orange,california, usa,21 hours left,62183.28826
+15000,ford,door,2013,salvage insurance,silver,texas, usa,17 hours left,236262.37738
+12500,ford,door,2017,clean vehicle,silver,california, usa,21 hours left,51291.27514
+21500,ford,f-150,2017,clean vehicle,gray,california, usa,2 days left,123719.62183999999
+17300,ford,fusion,2019,clean vehicle,white,north carolina, usa,Listing Expired,45174.1738
+27000,ford,explorer,2017,clean vehicle,silver,california, usa,21 hours left,5132.18526
+31800,ford,el,2017,clean vehicle,white,florida, usa,24 hours left,45639.27306
+13000,ford,door,2017,clean vehicle,gray,california, usa,21 hours left,69024.5926
+31800,ford,el,2017,clean vehicle,silver,florida, usa,24 hours left,47198.72352
+46300,ford,door,2016,clean vehicle,black,california, usa,2 days left,76493.53954
+22800,ford,door,2016,clean vehicle,silver,california, usa,21 hours left,108704.47964
+45000,ford,expedition,2019,clean vehicle,white,pennsylvania, usa,3 days left,29214.34902
+49500,ford,expedition,2019,clean vehicle,black,pennsylvania, usa,3 days left,28467.61526
+20000,ford,door,2015,clean vehicle,gray,california, usa,21 hours left,102104.5763
+25300,ford,edge,2019,clean vehicle,black,pennsylvania, usa,2 days left,42521.98148
+45500,ford,expedition,2019,clean vehicle,gray,pennsylvania, usa,3 days left,30202.48378
+48000,ford,expedition,2019,clean vehicle,black,pennsylvania, usa,3 days left,36950.4464
+47000,ford,max,2019,clean vehicle,blue,pennsylvania, usa,3 days left,27782.03642
+49500,ford,expedition,2019,clean vehicle,black,pennsylvania, usa,3 days left,27328.20254
+31200,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,1 days left,21014.76172
+18500,ford,door,2014,clean vehicle,white,california, usa,2 days left,73847.78458
+15500,ford,escape,2019,clean vehicle,silver,pennsylvania, usa,2 days left,34987.0516
+30500,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,1 days left,28496.58338
+45500,ford,max,2019,clean vehicle,silver,pennsylvania, usa,3 days left,30772.19014
+31500,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,1 days left,30345.71504
+11000,ford,door,2013,clean vehicle,white,new jersey, usa,30 minutes,136394.78368
+46500,ford,max,2019,clean vehicle,white,pennsylvania, usa,3 days left,31470.6437
+31500,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,1 days left,26296.6156
+32000,ford,f-150,2018,clean vehicle,white,ohio, usa,21 hours left,27748.240279999998
+23900,ford,edge,2019,clean vehicle,black,pennsylvania, usa,2 days left,46241.16622
+31500,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,1 days left,25780.01746
+18500,ford,taurus,2016,clean vehicle,black,ohio, usa,2 days left,121633.9172
+46000,ford,max,2019,clean vehicle,white,pennsylvania, usa,3 days left,30942.78018
+31500,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,1 days left,21940.13222
+14700,ford,van,2015,clean vehicle,white,new jersey, usa,2 days left,60734.88226
+47500,ford,expedition,2019,clean vehicle,blue,pennsylvania, usa,3 days left,38740.03248
+31500,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,1 days left,28416.11638
+49000,ford,expedition,2019,clean vehicle,red,pennsylvania, usa,3 days left,31753.88754
+31500,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,1 days left,25075.12654
+48000,ford,max,2019,clean vehicle,black,pennsylvania, usa,3 days left,25979.57562
+50000,ford,max,2019,clean vehicle,black,pennsylvania, usa,3 days left,28960.0733
+47300,ford,max,2019,clean vehicle,black,pennsylvania, usa,21 hours left,38505.06884
+45000,ford,f-150,2017,clean vehicle,black,louisiana, usa,8 days left,93227.45686
+49000,ford,max,2019,clean vehicle,silver,pennsylvania, usa,3 days left,33406.67972
+40200,ford,f-150,2019,clean vehicle,gray,texas, usa,1 days left,16138.46152
+48000,ford,max,2019,clean vehicle,black,pennsylvania, usa,3 days left,33878.21634
+49000,ford,max,2019,clean vehicle,white,pennsylvania, usa,3 days left,32162.6599
+39000,ford,expedition,2019,clean vehicle,silver,pennsylvania, usa,3 days left,44437.09608
+29000,ford,door,2015,clean vehicle,white,louisiana, usa,8 days left,146216.5857
+46500,ford,max,2019,clean vehicle,silver,pennsylvania, usa,3 days left,32083.80224
+22000,ford,mustang,2018,clean vehicle,gray,texas, usa,5 days left,63531.915179999996
+18800,ford,max,2019,clean vehicle,black,pennsylvania, usa,2 days left,41356.81932
+33000,ford,door,2015,clean vehicle,blue,louisiana, usa,8 days left,118848.14966
+39500,ford,expedition,2019,clean vehicle,black,pennsylvania, usa,3 days left,40912.64148
+16900,ford,door,2015,clean vehicle,black,louisiana, usa,8 days left,77032.66844
+42500,ford,max,2019,clean vehicle,white,pennsylvania, usa,3 days left,50269.34424
+39500,ford,expedition,2019,clean vehicle,gray,pennsylvania, usa,3 days left,43057.8917
+25500,ford,f-150,2018,clean vehicle,blue,illinois, usa,2 days left,79142.51318
+49500,ford,max,2019,clean vehicle,white,pennsylvania, usa,3 days left,33392.19566
+25000,ford,f-150,2018,clean vehicle,white,illinois, usa,2 days left,24144.92802
+40000,ford,f-150,2019,clean vehicle,black,pennsylvania, usa,3 days left,19709.58698
+26000,ford,f-150,2018,clean vehicle,black,illinois, usa,2 days left,1.60934
+29500,ford,f-150,2019,clean vehicle,silver,pennsylvania, usa,3 days left,17393.74672
+23000,ford,f-150,2019,clean vehicle,white,oklahoma, usa,21 hours left,18125.99642
+25500,ford,f-150,2018,clean vehicle,black,illinois, usa,2 days left,68086.34738
+44500,ford,f-150,2019,clean vehicle,gray,pennsylvania, usa,3 days left,28137.70056
+15600,ford,escape,2019,clean vehicle,blue,missouri, usa,9 days left,59716.17004
+23100,ford,f-150,2019,clean vehicle,white,oklahoma, usa,21 hours left,15351.49426
+37000,ford,f-150,2019,clean vehicle,gray,pennsylvania, usa,3 days left,3836.66656
+14500,ford,fusion,2019,clean vehicle,gray,missouri, usa,9 days left,33136.3106
+23000,ford,f-150,2019,clean vehicle,white,oklahoma, usa,21 hours left,22363.38864
+26500,ford,f-150,2019,clean vehicle,gray,pennsylvania, usa,3 days left,15209.87234
+18000,ford,fusion,2017,clean vehicle,red,missouri, usa,9 days left,50946.87638
+35700,ford,expedition,2019,clean vehicle,brown,oklahoma, usa,21 hours left,54567.89138
+31000,ford,f-150,2019,clean vehicle,black,pennsylvania, usa,3 days left,16138.46152
+40400,ford,max,2019,clean vehicle,white,oklahoma, usa,21 hours left,49519.3918
+43600,ford,f-150,2019,clean vehicle,black,pennsylvania, usa,2 days left,24367.01694
+22600,ford,f-150,2019,clean vehicle,white,oklahoma, usa,21 hours left,29661.74554
+26000,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,15456.10136
+23200,ford,f-150,2019,clean vehicle,white,oklahoma, usa,21 hours left,15314.47944
+29000,ford,f-150,2019,clean vehicle,silver,pennsylvania, usa,3 days left,15639.56612
+22800,ford,f-150,2019,clean vehicle,white,oklahoma, usa,21 hours left,26563.76604
+31000,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,17747.80152
+22900,ford,f-150,2019,clean vehicle,white,oklahoma, usa,21 hours left,18206.46342
+28000,ford,f-150,2019,clean vehicle,silver,pennsylvania, usa,3 days left,20737.95524
+23200,ford,f-150,2019,clean vehicle,white,oklahoma, usa,21 hours left,15378.85304
+27000,ford,f-150,2019,clean vehicle,blue,pennsylvania, usa,3 days left,21354.33246
+22800,ford,f-150,2019,clean vehicle,white,oklahoma, usa,21 hours left,26988.6318
+31500,ford,f-150,2019,clean vehicle,red,pennsylvania, usa,3 days left,21767.93284
+23400,ford,transit,2019,clean vehicle,white,oklahoma, usa,21 hours left,26378.69194
+28000,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,18406.02158
+23400,ford,transit,2019,clean vehicle,white,oklahoma, usa,21 hours left,28910.18376
+28000,ford,f-150,2018,clean vehicle,blue,texas, usa,10 days left,8754.8096
+24900,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,20977.7469
+23500,ford,transit,2019,clean vehicle,white,oklahoma, usa,21 hours left,25361.58906
+36000,ford,f-150,2018,clean vehicle,gray,texas, usa,10 days left,48283.41868
+28700,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,22004.50582
+16000,ford,fusion,2018,clean vehicle,silver,oregon, usa,29 minutes,39396.6432
+31000,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,21291.5682
+16500,ford,f-150,2017,clean vehicle,white,oregon, usa,29 minutes,221749.34926
+28500,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,21751.83944
+10800,ford,escape,2017,clean vehicle,black,oregon, usa,29 minutes,131418.7044
+28500,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,18930.66642
+25000,ford,explorer,2017,clean vehicle,gold,oregon, usa,29 minutes,54983.1011
+31000,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,21658.49772
+28500,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,22537.19736
+28500,ford,f-150,2019,clean vehicle,silver,pennsylvania, usa,3 days left,21573.2027
+14500,ford,door,2016,clean vehicle,black,oregon, usa,29 minutes,154739.65034
+25000,ford,f-150,2019,clean vehicle,black,pennsylvania, usa,3 days left,20419.30592
+14500,ford,door,2016,clean vehicle,white,oregon, usa,29 minutes,187518.68746
+28500,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,19730.5084
+12100,ford,door,2016,clean vehicle,silver,oregon, usa,29 minutes,47261.48778
+29400,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,30548.49188
+24700,ford,f-150,2019,clean vehicle,silver,california, usa,8 days left,38294.2453
+29500,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,25691.50376
+25800,ford,f-150,2019,clean vehicle,silver,california, usa,8 days left,45249.81278
+17500,ford,door,2016,clean vehicle,blue,oregon, usa,29 minutes,187858.2582
+23900,ford,f-150,2019,clean vehicle,brown,pennsylvania, usa,2 days left,33884.6537
+22900,ford,f-150,2019,clean vehicle,black,california, usa,8 days left,44729.99596
+19500,ford,edge,2016,clean vehicle,black,oregon, usa,29 minutes,91724.3333
+29500,ford,f-150,2019,clean vehicle,gray,pennsylvania, usa,3 days left,26755.2775
+24500,ford,f-150,2019,clean vehicle,gray,california, usa,8 days left,44561.01526
+11000,ford,door,2016,clean vehicle,black,oregon, usa,29 minutes,64133.80834
+22400,ford,f-150,2019,clean vehicle,black,pennsylvania, usa,2 days left,51059.53018
+15700,ford,escape,2019,clean vehicle,gray,california, usa,8 days left,50832.61324
+11000,ford,door,2015,clean vehicle,black,oregon, usa,29 minutes,54262.11678
+28000,ford,f-150,2019,clean vehicle,black,pennsylvania, usa,2 days left,29640.82412
+13500,ford,fusion,2019,clean vehicle,black,california, usa,8 days left,62785.18142
+25100,ford,f-150,2019,clean vehicle,black,pennsylvania, usa,3 days left,34352.97164
+24100,ford,transit,2019,clean vehicle,white,california, usa,8 days left,34037.541
+10500,ford,f-150,2019,clean vehicle,red,pennsylvania, usa,2 days left,35407.08934
+16900,ford,fusion,2019,clean vehicle,gray,california, usa,8 days left,50309.57774
+28500,ford,f-150,2019,clean vehicle,white,pennsylvania, usa,3 days left,23106.90372
+16200,ford,fusion,2019,clean vehicle,silver,california, usa,8 days left,67064.41648
+24500,ford,flex,2019,clean vehicle,gray,pennsylvania, usa,3 days left,31370.86462
+16500,ford,fusion,2019,clean vehicle,black,california, usa,8 days left,59474.76904
+56500,ford,door,2017,clean vehicle,gold,texas, usa,2 days left,37373.70282
+10400,ford,fusion,2019,clean vehicle,gray,pennsylvania, usa,2 days left,21058.2139
+22800,ford,explorer,2018,clean vehicle,silver,oklahoma, usa,21 hours left,58135.79816
+26500,ford,flex,2019,clean vehicle,white,pennsylvania, usa,3 days left,30814.03298
+23800,ford,flex,2019,clean vehicle,red,pennsylvania, usa,3 days left,40222.23462
+24700,ford,f-150,2018,clean vehicle,white,oklahoma, usa,21 hours left,66187.32618
+12400,ford,fusion,2019,clean vehicle,black,pennsylvania, usa,2 days left,52086.2891
+16600,ford,fusion,2019,clean vehicle,white,pennsylvania, usa,2 days left,44697.80916
+11200,ford,door,2015,clean vehicle,blue,oklahoma, usa,21 hours left,169024.15218
+15900,ford,fusion,2019,clean vehicle,silver,pennsylvania, usa,2 days left,44749.308039999996
+15100,ford,fusion,2019,clean vehicle,white,pennsylvania, usa,2 days left,48571.49054
+15600,ford,fusion,2019,clean vehicle,gold,pennsylvania, usa,2 days left,58427.0887
+39700,ford,srw,2019,clean vehicle,white,oklahoma, usa,21 hours left,16857.8365
+16000,ford,fusion,2019,clean vehicle,gray,pennsylvania, usa,2 days left,55898.81556
+15500,ford,srw,2017,clean vehicle,white,oregon, usa,28 minutes,212674.281
+19000,ford,taurus,2019,clean vehicle,gray,pennsylvania, usa,3 days left,20805.54752
+38700,ford,drw,2018,clean vehicle,white,oklahoma, usa,21 hours left,95834.58766
+21000,ford,taurus,2019,clean vehicle,red,pennsylvania, usa,3 days left,19592.10516
+28500,ford,door,2016,clean vehicle,white,oklahoma, usa,8 days left,154704.24486
+37200,ford,drw,2018,clean vehicle,white,oklahoma, usa,21 hours left,144533.21606
+18500,ford,taurus,2019,clean vehicle,white,pennsylvania, usa,3 days left,29293.20668
+15000,ford,door,2015,clean vehicle,white,oklahoma, usa,8 days left,206808.2367
+37700,ford,drw,2017,clean vehicle,white,oklahoma, usa,21 hours left,70049.74218
+22200,ford,transit,2019,clean vehicle,white,pennsylvania, usa,2 days left,25414.69728
+39950,ford,f-150,2019,clean vehicle,white,georgia, usa,4 days left,14931.45652
+37600,ford,drw,2017,clean vehicle,white,oklahoma, usa,21 hours left,67471.57949999999
+18500,ford,taurus,2019,clean vehicle,white,pennsylvania, usa,3 days left,27236.47016
+20500,ford,taurus,2019,clean vehicle,silver,pennsylvania, usa,3 days left,27777.2084
+21000,ford,transit,2019,clean vehicle,white,pennsylvania, usa,3 days left,65616.01048
+22500,ford,transit,2019,clean vehicle,white,pennsylvania, usa,2 days left,41236.11882
+29000,ford,f-150,2019,clean vehicle,white,colorado, usa,24 hours left,18779.38846
+13200,ford,door,2013,clean vehicle,black,florida, usa,2 days left,222932.21416
+25500,ford,transit,2019,clean vehicle,white,pennsylvania, usa,2 days left,21957.83496
+25700,ford,door,2016,clean vehicle,white,texas, usa,2 days left,238077.7129
+18900,ford,doors,2015,clean vehicle,charcoal,new york, usa,10 days left,71544.81904
+31500,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,2 days left,32761.33438
+45500,ford,door,2017,clean vehicle,black,florida, usa,48 minutes,106805.45844
+11000,ford,door,2017,clean vehicle,gray,pennsylvania, usa,21 hours left,70057.78888
+18288,ford,doors,2015,clean vehicle,gray,new york, usa,10 days left,72771.13612
+20000,ford,door,2017,clean vehicle,white,florida, usa,48 minutes,137901.12592
+36600,ford,door,2016,clean vehicle,white,pennsylvania, usa,21 hours left,94793.34468
+18299,ford,doors,2015,clean vehicle,silver,pennsylvania, usa,10 days left,96349.57646
+31500,ford,wagon,2019,clean vehicle,black,pennsylvania, usa,2 days left,37372.09348
+13500,ford,door,2016,clean vehicle,white,colorado, usa,8 days left,141116.58724
+22800,ford,wagon,2019,clean vehicle,white,pennsylvania, usa,2 days left,52345.39284
+11300,ford,door,2016,clean vehicle,white,colorado, usa,8 days left,111691.41468
+32700,ford,door,2014,clean vehicle,white,texas, usa,7 hours left,122850.57824
+21900,ford,wagon,2019,clean vehicle,white,pennsylvania, usa,2 days left,76649.64552
+11700,ford,door,2014,clean vehicle,orange,texas, usa,6 hours left,217716.34322
+11000,ford,door,2014,clean vehicle,white,texas, usa,6 hours left,124540.38524
+13000,ford,cutaway,2013,clean vehicle,white,colorado, usa,8 days left,219934.01374
+11200,ford,door,2013,clean vehicle,blue,texas, usa,6 hours left,197725.12174
+23400,ford,f-150,2019,clean vehicle,white,missouri, usa,21 hours left,19630.72932
+13500,ford,door,2019,salvage insurance,red,massachusetts, usa,3 days left,73244.28208
+22900,ford,f-150,2019,clean vehicle,white,missouri, usa,21 hours left,25195.82704
+20000,ford,fusion,2020,clean vehicle,silver,virginia, usa,2 days left,38598.41056
+22900,ford,f-150,2019,clean vehicle,white,missouri, usa,21 hours left,25461.36814
+27000,ford,mustang,2020,clean vehicle,red,virginia, usa,2 days left,20515.86632
+54500,ford,expedition,2019,clean vehicle,blue,oklahoma, usa,2 days left,15876.1391
+20600,ford,fusion,2020,clean vehicle,black,virginia, usa,2 days left,28739.59372
+23500,ford,f-150,2019,clean vehicle,white,missouri, usa,21 hours left,10800.28074
+53000,ford,expedition,2019,clean vehicle,blue,oklahoma, usa,2 days left,24041.93026
+23600,ford,transit,2019,clean vehicle,white,missouri, usa,21 hours left,25459.7588
+33500,ford,wagon,2019,clean vehicle,silver,oklahoma, usa,2 days left,9881.3476
+24400,ford,edge,2019,clean vehicle,gray,virginia, usa,2 days left,41121.85568
+13000,ford,focus,2016,clean vehicle,black,west virginia, usa,2 days left,88487.95056
+48400,ford,max,2019,clean vehicle,black,virginia, usa,2 days left,39884.27322
+26500,ford,door,2014,clean vehicle,silver,west virginia, usa,2 days left,238893.64828
+46200,ford,max,2019,clean vehicle,white,virginia, usa,2 days left,55024.94394
+13500,ford,door,2012,clean vehicle,white,west virginia, usa,2 days left,168270.98106
+27600,ford,edge,2019,clean vehicle,silver,virginia, usa,2 days left,21347.8951
+26500,ford,edge,2019,clean vehicle,gray,virginia, usa,2 days left,36142.55772
+26000,ford,door,2013,clean vehicle,white,west virginia, usa,21 hours left,112824.39004
+24500,ford,edge,2019,clean vehicle,black,virginia, usa,2 days left,38160.670079999996
+16700,ford,ecosport,2019,clean vehicle,black,virginia, usa,2 days left,24130.44396
+17500,ford,edge,2015,clean vehicle,gray,missouri, usa,2 days left,96119.44084
+17000,ford,escape,2019,clean vehicle,gray,virginia, usa,2 days left,26470.42432
+22500,ford,door,2015,clean vehicle,black,oklahoma, usa,2 days left,46350.60134
+34500,ford,f-150,2019,clean vehicle,gray,michigan, usa,21 hours left,46571.08092
+16600,ford,ecosport,2019,clean vehicle,black,virginia, usa,2 days left,30612.86548
+34500,ford,f-150,2019,clean vehicle,white,michigan, usa,21 hours left,40307.52964
+25000,ford,edge,2019,clean vehicle,black,virginia, usa,2 days left,35917.25012
+36000,ford,f-150,2019,clean vehicle,gray,michigan, usa,21 hours left,27843.19134
+23700,ford,edge,2019,clean vehicle,gray,virginia, usa,2 days left,44116.837419999996
+28600,ford,explorer,2019,clean vehicle,silver,michigan, usa,21 hours left,63943.90622
+23500,ford,door,2013,clean vehicle,brown,oklahoma, usa,2 days left,119404.9813
+25300,ford,explorer,2019,clean vehicle,silver,michigan, usa,21 hours left,71427.33722
+24900,ford,flex,2019,clean vehicle,white,virginia, usa,2 days left,30820.47034
+20300,ford,f-750,2012,clean vehicle,white,missouri, usa,21 hours left,303189.99996
+23400,ford,fusion,2020,clean vehicle,gray,michigan, usa,21 hours left,3946.1016799999998
+14600,ford,fusion,2019,clean vehicle,silver,virginia, usa,2 days left,58341.79368
+25500,ford,f-150,2019,clean vehicle,silver,virginia, usa,2 days left,43671.05024
+14700,ford,fusion,2019,clean vehicle,white,virginia, usa,2 days left,57857.38234
+33700,ford,f-150,2019,clean vehicle,white,virginia, usa,2 days left,56682.56414
+33400,ford,f-150,2019,clean vehicle,gray,virginia, usa,2 days left,54408.56672
+34000,ford,f-150,2019,clean vehicle,black,michigan, usa,21 hours left,51534.28548
+17500,ford,fusion,2019,clean vehicle,white,virginia, usa,2 days left,54995.97582
+14100,ford,fusion,2019,clean vehicle,white,michigan, usa,21 hours left,39061.90048
+30000,ford,f-150,2019,clean vehicle,black,virginia, usa,2 days left,30665.9737
+16500,ford,fusion,2019,clean vehicle,red,michigan, usa,21 hours left,56040.43748
+30600,ford,f-150,2019,clean vehicle,gray,virginia, usa,2 days left,24819.24148
+12800,ford,ecosport,2019,clean vehicle,silver,nevada, usa,2 days left,39855.3051
+26000,ford,wagon,2019,clean vehicle,white,virginia, usa,2 days left,37045.39746
+46000,ford,max,2019,clean vehicle,black,texas, usa,21 hours left,61545.98962
+28500,ford,ranger,2019,clean vehicle,white,virginia, usa,2 days left,26568.59406
+24300,ford,edge,2019,clean vehicle,silver,nevada, usa,2 days left,30194.43708
+29000,ford,explorer,2019,clean vehicle,no_color,texas, usa,21 hours left,46435.89636
+15300,ford,escape,2019,clean vehicle,black,nevada, usa,2 days left,27989.64128
+27900,ford,mustang,2019,clean vehicle,white,new mexico, usa,21 hours left,21819.43172
+24700,ford,edge,2019,clean vehicle,black,nevada, usa,2 days left,43584.14588
+14400,ford,escape,2019,clean vehicle,black,texas, usa,21 hours left,28179.5434
+15000,ford,ecosport,2019,clean vehicle,white,nevada, usa,2 days left,39689.54308
+17200,ford,door,2014,clean vehicle,black,florida, usa,18 hours left,154618.94984
+12800,ford,ecosport,2019,clean vehicle,white,nevada, usa,2 days left,36786.29372
+46900,ford,explorer,2020,clean vehicle,gray,virginia, usa,21 hours left,1190.9116
+16200,ford,escape,2019,clean vehicle,black,nevada, usa,2 days left,40378.3406
+25200,ford,escape,2020,clean vehicle,black,virginia, usa,21 hours left,11.26538
+34800,ford,max,2019,clean vehicle,silver,nevada, usa,2 days left,55163.34718
+52000,ford,srw,2019,clean vehicle,white,texas, usa,21 hours left,55565.682179999996
+26000,ford,door,2017,clean vehicle,white,texas, usa,1 days left,160810.08082
+40600,ford,expedition,2019,clean vehicle,white,nevada, usa,2 days left,63037.8478
+55000,ford,srw,2019,clean vehicle,no_color,texas, usa,21 hours left,26665.15446
+36400,ford,max,2019,clean vehicle,black,nevada, usa,2 days left,58927.59344
+14700,ford,escape,2019,clean vehicle,silver,nevada, usa,2 days left,72063.02652
+43900,ford,explorer,2020,clean vehicle,no_color,south carolina, usa,21 hours left,3361.91126
+41100,ford,expedition,2019,clean vehicle,silver,nevada, usa,2 days left,57615.98134
+23000,ford,door,2013,clean vehicle,white,texas, usa,1 days left,142878.81454
+13900,ford,escape,2019,clean vehicle,blue,nevada, usa,2 days left,59510.17452
+19000,ford,door,2012,clean vehicle,white,texas, usa,1 days left,305414.10784
+34800,ford,max,2019,clean vehicle,white,nevada, usa,2 days left,56701.87622
+22000,ford,door,2012,clean vehicle,white,texas, usa,1 days left,244041.92694
+16300,ford,escape,2019,clean vehicle,white,nevada, usa,1 hours left,59616.39096
+18800,ford,escape,2019,clean vehicle,green,virginia, usa,21 hours left,25483.8989
+13000,ford,cab,2012,clean vehicle,white,texas, usa,1 days left,323778.28658
+40900,ford,max,2019,clean vehicle,black,nevada, usa,2 days left,67476.40752
+47000,ford,expedition,2019,clean vehicle,gray,virginia, usa,21 hours left,59640.53106
+12800,ford,door,2017,clean vehicle,red,wisconsin, usa,14 hours left,54336.14642
+25500,ford,explorer,2019,clean vehicle,gray,nevada, usa,2 days left,48038.799
+17800,ford,escape,2019,clean vehicle,black,virginia, usa,21 hours left,42929.1445
+25700,ford,f-150,2019,clean vehicle,black,nevada, usa,2 days left,28691.31352
+17200,ford,escape,2019,clean vehicle,white,virginia, usa,21 hours left,47687.96288
+35000,ford,srw,2019,clean vehicle,white,new jersey, usa,2 hours left,18578.22096
+28800,ford,f-150,2019,clean vehicle,white,nevada, usa,2 days left,35366.85584
+39200,ford,max,2019,clean vehicle,black,tennessee, usa,21 hours left,70194.58278
+13600,ford,escape,2019,clean vehicle,gray,pennsylvania, usa,1 days left,79266.43236
+24200,ford,f-150,2019,clean vehicle,black,nevada, usa,2 days left,83024.24126
+46900,ford,max,2019,clean vehicle,gray,virginia, usa,21 hours left,66625.06666
+26500,ford,f-150,2019,clean vehicle,gray,pennsylvania, usa,1 days left,18883.99556
+24700,ford,explorer,2019,clean vehicle,silver,nevada, usa,2 days left,66993.60552
+12600,ford,focus,2017,clean vehicle,gray,new jersey, usa,7 days left,24260.8005
+31800,ford,f-150,2019,clean vehicle,red,nevada, usa,2 days left,42793.95994
+24500,ford,f-150,2019,clean vehicle,white,nevada, usa,2 days left,36863.54204
+26000,ford,f-150,2019,clean vehicle,white,virginia, usa,21 hours left,53851.73508
+21000,ford,f-150,2017,clean vehicle,gray,pennsylvania, usa,7 days left,52701.05698
+22500,ford,f-150,2019,clean vehicle,white,nevada, usa,2 days left,54262.11678
+23100,ford,f-150,2019,clean vehicle,red,nevada, usa,2 days left,37838.80208
+19600,ford,mustang,2019,clean vehicle,gray,nevada, usa,2 days left,53629.64616
+11700,ford,door,2016,clean vehicle,black,pennsylvania, usa,1 days left,38307.12002
+27300,ford,mustang,2019,clean vehicle,blue,nevada, usa,2 days left,50307.9684
+14300,ford,edge,2016,clean vehicle,white,pennsylvania, usa,1 days left,111733.25752
+23600,ford,transit,2019,clean vehicle,white,nevada, usa,2 days left,25355.1517
+22400,ford,wagon,2019,clean vehicle,white,nevada, usa,2 days left,82671.79579999999
+23600,ford,transit,2019,clean vehicle,white,nevada, usa,2 days left,24873.95904
+37500,ford,srw,2019,clean vehicle,silver,nevada, usa,5 days left,3833.44788
+10700,ford,van,2016,clean vehicle,white,pennsylvania, usa,1 days left,160200.14096
+31900,ford,srw,2019,clean vehicle,black,nevada, usa,2 days left,34674.83964
+31600,ford,mustang,2019,clean vehicle,black,georgia, usa,21 hours left,26220.97662
+12600,ford,escape,2018,clean vehicle,gray,nevada, usa,2 days left,64977.1025
+13000,ford,edge,2015,clean vehicle,gray,florida, usa,4 days left,96006.78704
+11800,ford,ecosport,2018,clean vehicle,black,nevada, usa,2 days left,60958.58052
+24600,ford,edge,2019,clean vehicle,black,georgia, usa,21 hours left,33197.46552
+14500,ford,door,2014,clean vehicle,black,florida, usa,4 days left,114593.0547
+24300,ford,explorer,2018,clean vehicle,silver,nevada, usa,2 days left,42142.17724
+12300,ford,fusion,2018,clean vehicle,white,nevada, usa,2 days left,61407.58638
+14800,ford,door,2016,clean vehicle,blue,new jersey, usa,2 hours left,48803.2355
+17100,ford,mustang,2018,clean vehicle,silver,nevada, usa,2 days left,50792.37974
+20300,ford,explorer,2018,clean vehicle,blue,connecticut, usa,18 hours left,30624.13086
+26300,ford,f-150,2018,clean vehicle,silver,new york, usa,18 hours left,18892.04226
+22500,ford,door,2016,clean vehicle,silver,nevada, usa,Listing Expired,81147.75082
+41200,ford,srw,2019,clean vehicle,gray,tennessee, usa,21 hours left,41260.25892
+20400,ford,door,2017,clean vehicle,gray,florida, usa,Listing Expired,96235.31332
+49900,ford,drw,2019,clean vehicle,black,virginia, usa,21 hours left,8103.0269
+12100,ford,escape,2017,clean vehicle,silver,new york, usa,18 hours left,51955.93256
+24000,ford,door,2016,clean vehicle,blue,florida, usa,Listing Expired,64970.66514
+17200,ford,f-150,2017,clean vehicle,white,new york, usa,18 hours left,148025.48386
+18800,ford,explorer,2017,clean vehicle,gray,new york, usa,18 hours left,122725.04972
+44000,ford,max,2019,clean vehicle,gray,nevada, usa,2 days left,27252.56356
+23400,ford,transit,2019,clean vehicle,white,texas, usa,2 days left,22244.29748
+30700,ford,transit,2019,clean vehicle,white,texas, usa,2 days left,8449.035
+15600,ford,escape,2019,clean vehicle,black,south carolina, usa,21 hours left,53834.03234
+22600,ford,f-150,2019,clean vehicle,white,texas, usa,2 days left,22999.07794
+22900,ford,f-150,2019,clean vehicle,white,south carolina, usa,21 hours left,26916.2115
+22800,ford,f-150,2019,clean vehicle,white,texas, usa,2 days left,20924.63868
+22700,ford,f-150,2019,clean vehicle,white,south carolina, usa,21 hours left,30419.74468
+23000,ford,f-150,2019,clean vehicle,white,texas, usa,2 days left,15662.09688
+22700,ford,f-150,2019,clean vehicle,white,south carolina, usa,21 hours left,30492.16498
+23000,ford,f-150,2019,clean vehicle,white,north carolina, usa,2 days left,13521.67468
+34400,ford,f-150,2019,clean vehicle,gray,south carolina, usa,21 hours left,28082.983
+36500,ford,srw,2016,clean vehicle,gray,nevada, usa,Listing Expired,86881.82924
+23100,ford,f-150,2019,clean vehicle,white,south carolina, usa,21 hours left,25504.82032
+23300,ford,f-150,2019,clean vehicle,white,south carolina, usa,21 hours left,17332.5918
+22600,ford,f-150,2019,clean vehicle,white,north carolina, usa,2 days left,23475.44258
+23000,ford,f-150,2019,clean vehicle,white,north carolina, usa,2 days left,17567.55544
+11500,ford,fiesta,2019,clean vehicle,silver,north carolina, usa,2 days left,16309.05156
+23000,ford,f-150,2019,clean vehicle,white,north carolina, usa,2 days left,17147.5177
+22600,ford,transit,2019,clean vehicle,white,north carolina, usa,2 days left,22902.51754
+23000,ford,transit,2019,clean vehicle,white,north carolina, usa,2 days left,14459.9199
+19200,ford,door,2017,clean vehicle,gray,texas, usa,2 days left,167838.0686
+10100,ford,door,2017,clean vehicle,red,texas, usa,2 days left,73373.02928
+14000,ford,explorer,2016,clean vehicle,white,texas, usa,2 days left,177563.31021999998
+14700,ford,door,2016,clean vehicle,black,texas, usa,2 days left,156952.49284
+30200,ford,door,2015,clean vehicle,red,texas, usa,2 days left,107909.46568
+21500,ford,van,2015,clean vehicle,no_color,texas, usa,2 days left,23306.46188
+23000,ford,expedition,2017,clean vehicle,silver,colorado, usa,20 hours left,145244.54434
+11200,ford,door,2014,clean vehicle,no_color,texas, usa,2 days left,156620.9688
+10400,ford,door,2014,clean vehicle,white,california, usa,23 hours left,129796.48968
+13200,ford,door,2014,clean vehicle,black,texas, usa,2 days left,160637.88144
+10500,ford,door,2015,clean vehicle,red,new jersey, usa,2 hours left,137677.42766
+11900,ford,bus,2013,clean vehicle,white,california, usa,1 days left,133623.5002
+21200,ford,door,2014,clean vehicle,white,texas, usa,2 days left,209484.56912
+23500,ford,door,2013,clean vehicle,white,california, usa,1 days left,128892.0406
+11100,ford,door,2014,clean vehicle,blue,texas, usa,2 days left,231268.59536
+22000,ford,door,2015,clean vehicle,white,colorado, usa,19 hours left,86110.95538
+14000,ford,door,2013,clean vehicle,black,colorado, usa,19 hours left,77904.93072
+23300,ford,edge,2019,clean vehicle,silver,minnesota, usa,14 hours left,45945.04766
+21700,ford,door,2012,clean vehicle,green,texas, usa,2 days left,184269.43
+11200,ford,door,2012,clean vehicle,blue,texas, usa,2 days left,108051.0876
+11300,ford,escape,2018,clean vehicle,gray,north carolina, usa,2 days left,67862.64912
+10900,ford,focus,2018,clean vehicle,green,north carolina, usa,2 days left,84071.9216
+42300,ford,max,2019,clean vehicle,gray,florida, usa,2 days left,56124.12316
+10500,ford,door,2014,salvage insurance,white,idaho, usa,16 hours left,192620.29526
+43400,ford,max,2019,clean vehicle,gray,florida, usa,2 days left,60116.8957
+12500,ford,door,2016,salvage insurance,white,idaho, usa,16 hours left,162458.04498
+15900,ford,escape,2019,clean vehicle,white,minnesota, usa,14 hours left,41907.2136
+42500,ford,max,2019,clean vehicle,white,florida, usa,2 days left,58962.99892
+15000,ford,door,2015,salvage insurance,white,texas, usa,16 hours left,220486.01736
+24700,ford,edge,2019,clean vehicle,blue,florida, usa,1 days left,51167.35596
+15500,ford,door,2015,salvage insurance,white,texas, usa,16 hours left,210994.13004
+49000,ford,expedition,2019,clean vehicle,white,minnesota, usa,14 hours left,35426.40142
+29000,ford,door,2017,clean vehicle,black,tennessee, usa,21 hours left,68060.59794
+16800,ford,escape,2019,clean vehicle,white,florida, usa,2 days left,21170.8677
+51000,ford,max,2019,clean vehicle,red,minnesota, usa,14 hours left,40022.67646
+16500,ford,escape,2019,clean vehicle,white,florida, usa,2 days left,29698.76036
+27900,ford,explorer,2019,clean vehicle,gray,florida, usa,2 days left,46545.33148
+23700,ford,edge,2019,clean vehicle,gray,florida, usa,1 days left,37874.20756
+45600,ford,max,2019,clean vehicle,gray,florida, usa,2 days left,57366.53364
+15600,ford,escape,2019,clean vehicle,black,florida, usa,2 days left,46138.16846
+25000,ford,explorer,2017,clean vehicle,red,michigan, usa,21 hours left,52229.52036
+28500,ford,explorer,2019,clean vehicle,black,florida, usa,2 days left,35083.612
+19990,ford,doors,2016,clean vehicle,black,connecticut, usa,11 days left,38295.85464
+34400,ford,max,2019,clean vehicle,gray,florida, usa,2 days left,68406.60604
+41000,ford,expedition,2019,clean vehicle,black,florida, usa,2 days left,76437.21264
+27999,ford,doors,2016,clean vehicle,gray,massachusetts, usa,11 days left,17219.938
+42000,ford,expedition,2019,clean vehicle,black,florida, usa,2 days left,63736.30136
+24700,ford,edge,2019,clean vehicle,black,florida, usa,4 hours left,14171.84804
+13995,ford,doors,2016,clean vehicle,gray,new jersey, usa,11 days left,169165.7741
+35400,ford,max,2019,clean vehicle,white,florida, usa,2 days left,58204.99978
+15800,ford,escape,2019,clean vehicle,black,florida, usa,2 days left,42867.98958
+18500,ford,doors,2016,clean vehicle,black,new york, usa,11 days left,73730.30276
+32000,ford,f-150,2019,clean vehicle,red,minnesota, usa,14 hours left,27857.6754
+28300,ford,explorer,2019,clean vehicle,gray,florida, usa,2 days left,38810.84344
+10500,ford,d,2019,salvage insurance,blue,florida, usa,15 hours left,22736.75552
+24970,ford,doors,2016,clean vehicle,green,new york, usa,11 days left,80277.09788
+13800,ford,fusion,2019,clean vehicle,blue,minnesota, usa,14 hours left,62706.32376
+59975,ford,f-150,2019,clean vehicle,white,florida, usa,Listing Expired,114.26313999999999
+50000,ford,max,2019,clean vehicle,blue,minnesota, usa,14 hours left,47473.92066
+33800,ford,door,2014,clean vehicle,white,kentucky, usa,21 hours left,161344.3817
+59975,ford,f-150,2019,clean vehicle,black,florida, usa,Listing Expired,280.02515999999997
+16700,ford,fusion,2019,clean vehicle,black,minnesota, usa,14 hours left,59378.20864
+34700,ford,door,2013,clean vehicle,white,kentucky, usa,21 hours left,124371.40454
+28900,ford,f-150,2019,clean vehicle,black,florida, usa,1 days left,39903.5853
+27100,ford,f-150,2019,clean vehicle,silver,minnesota, usa,14 hours left,46175.18328
+13388,ford,door,2012,clean vehicle,black,louisiana, usa,1 days left,183176.68814
+26000,ford,f-150,2019,clean vehicle,blue,florida, usa,2 days left,31853.66662
+23400,ford,flex,2019,clean vehicle,black,minnesota, usa,14 hours left,40212.57858
+29800,ford,mustang,2016,clean vehicle,blue,illinois, usa,21 hours left,29558.74778
+23700,ford,flex,2019,clean vehicle,gray,florida, usa,1 days left,22706.17806
+33995,ford,doors,2016,clean vehicle,black,new jersey, usa,11 days left,44046.02646
+23500,ford,flex,2019,clean vehicle,white,minnesota, usa,14 hours left,48614.94272
+32500,ford,explorer,2019,clean vehicle,black,florida, usa,2 days left,38662.78416
+39000,ford,f-150,2019,clean vehicle,black,minnesota, usa,14 hours left,13524.89336
+11000,ford,focus,2018,clean vehicle,gray,massachusetts, usa,6 days left,14297.37656
+32500,ford,explorer,2019,clean vehicle,black,florida, usa,2 days left,38826.93684
+26900,ford,f-150,2019,clean vehicle,black,minnesota, usa,14 hours left,51036.99942
+11200,ford,edge,2016,clean vehicle,gray,new york, usa,18 hours left,177020.96264
+21000,ford,doors,2018,clean vehicle,red,new york, usa,11 days left,10977.30814
+32000,ford,f-150,2019,clean vehicle,red,minnesota, usa,14 hours left,28754.07778
+12800,ford,escape,2018,clean vehicle,black,missouri, usa,9 days left,63350.05976
+24190,ford,doors,2018,clean vehicle,blue,massachusetts, usa,11 days left,6466.32812
+29100,ford,f-150,2019,clean vehicle,red,minnesota, usa,14 hours left,33883.04436
+29000,ford,door,2017,clean vehicle,red,massachusetts, usa,6 days left,77745.60606
+17300,ford,door,2016,clean vehicle,black,new york, usa,18 hours left,110506.94044
+31000,ford,f-150,2019,clean vehicle,white,minnesota, usa,14 hours left,21887.024
+37200,ford,door,2017,clean vehicle,black,massachusetts, usa,2 days left,72349.48904
+23500,ford,flex,2019,clean vehicle,gray,minnesota, usa,14 hours left,50679.72594
+26100,ford,f-150,2018,clean vehicle,white,mississippi, usa,21 hours left,51738.67166
+10800,ford,hybrid,2016,clean vehicle,blue,new york, usa,18 hours left,42895.348359999996
+20995,ford,doors,2018,clean vehicle,white,new york, usa,11 days left,58961.38958
+29300,ford,f-150,2019,clean vehicle,white,minnesota, usa,14 hours left,27358.78
+33100,ford,f-150,2018,clean vehicle,gray,mississippi, usa,21 hours left,25685.0664
+13800,ford,door,2016,clean vehicle,gray,new jersey, usa,18 hours left,65619.22916
+19498,ford,doors,2018,clean vehicle,black,new york, usa,11 days left,64917.55692
+14900,ford,fusion,2019,clean vehicle,gray,minnesota, usa,14 hours left,65186.3167
+20600,ford,mustang,2019,clean vehicle,gray,florida, usa,2 days left,54661.2331
+19995,ford,doors,2018,clean vehicle,white,new york, usa,11 days left,68348.6698
+14900,ford,fusion,2019,clean vehicle,silver,minnesota, usa,14 hours left,65451.8578
+19500,ford,door,2016,clean vehicle,black,massachusetts, usa,6 days left,66357.91622
+24500,ford,wagon,2019,clean vehicle,white,florida, usa,5 hours left,21182.13308
+15000,ford,fusion,2018,clean vehicle,white,california, usa,8 days left,62352.26896
+26985,ford,doors,2018,clean vehicle,black,new york, usa,11 days left,22567.77482
+31000,ford,f-150,2019,clean vehicle,white,minnesota, usa,14 hours left,15676.58094
+24300,ford,explorer,2017,clean vehicle,silver,mississippi, usa,21 hours left,49916.89878
+16800,ford,fusion,2019,clean vehicle,gray,florida, usa,1 days left,60810.52124
+17200,ford,mustang,2018,clean vehicle,white,california, usa,8 days left,52166.7561
+24300,ford,wagon,2019,clean vehicle,white,minnesota, usa,14 hours left,47161.7087
+26400,ford,explorer,2017,clean vehicle,white,mississippi, usa,21 hours left,82573.62606
+16800,ford,fusion,2019,clean vehicle,black,florida, usa,1 days left,61156.52934
+15500,ford,escape,2018,clean vehicle,black,california, usa,2 days left,30334.44966
+19440,ford,doors,2018,clean vehicle,silver,new york, usa,11 days left,69634.53246
+16700,ford,fusion,2019,clean vehicle,silver,minnesota, usa,14 hours left,59527.87726
+29000,ford,door,2017,clean vehicle,blue,alabama, usa,21 hours left,47185.8488
+16100,ford,hybrid,2019,clean vehicle,white,florida, usa,1 days left,55110.23896
+17200,ford,mustang,2018,clean vehicle,white,california, usa,8 days left,53008.44092
+20950,ford,doors,2018,clean vehicle,black,new hampshire, usa,11 days left,65649.80662
+46200,ford,door,2017,clean vehicle,no_color,alabama, usa,21 hours left,152470.48094
+29400,ford,mustang,2019,clean vehicle,white,florida, usa,2 days left,40251.20274
+50200,ford,door,2017,clean vehicle,white,alabama, usa,21 hours left,148711.0627
+28300,ford,ranger,2019,clean vehicle,white,florida, usa,2 days left,24841.77224
+12000,ford,door,2017,salvage insurance,white,california, usa,18 hours left,168441.5711
+12600,ford,door,2014,clean vehicle,black,new jersey, usa,2 hours left,77550.87592
+20500,ford,mustang,2019,clean vehicle,black,florida, usa,2 days left,57823.5862
+41000,ford,srw,2019,clean vehicle,silver,minnesota, usa,14 hours left,14862.2549
+33100,ford,door,2017,clean vehicle,red,mississippi, usa,21 hours left,165765.23868
+23500,ford,ranger,2019,clean vehicle,blue,florida, usa,2 days left,20657.48824
+18799,ford,doors,2015,clean vehicle,red,connecticut, usa,9 days left,221651.17952
+35000,ford,srw,2019,clean vehicle,white,minnesota, usa,14 hours left,23108.51306
+26100,ford,wagon,2017,clean vehicle,white,mississippi, usa,21 hours left,93531.62212
+15400,ford,fusion,2019,clean vehicle,white,florida, usa,1 days left,50089.09816
+31831,ford,doors,2018,clean vehicle,black,new jersey, usa,11 days left,22625.71106
+40400,ford,srw,2019,clean vehicle,black,minnesota, usa,14 hours left,21681.02848
+15400,ford,door,2013,clean vehicle,silver,connecticut, usa,18 hours left,199530.80122
+13500,ford,hybrid,2019,clean vehicle,gray,florida, usa,1 days left,56363.91482
+25995,ford,doors,2015,clean vehicle,white,new hampshire, usa,9 days left,63583.41406
+23985,ford,doors,2015,clean vehicle,white,new jersey, usa,9 days left,83498.99656
+27995,ford,doors,2018,clean vehicle,gray,pennsylvania, usa,11 days left,6728.65054
+12995,ford,doors,2015,clean vehicle,blue,new jersey, usa,9 days left,165440.152
+25200,ford,door,2016,clean vehicle,white,alabama, usa,21 hours left,162451.60762
+29590,ford,doors,2015,clean vehicle,green,new york, usa,9 days left,6300.5661
+15300,ford,taurus,2018,clean vehicle,silver,utah, usa,Listing Expired,61750.3758
+35400,ford,ranger,2020,clean vehicle,blue,ohio, usa,21 hours left,1079.86714
+32700,ford,door,2016,clean vehicle,silver,alabama, usa,21 hours left,98937.39518
+13995,ford,doors,2015,clean vehicle,silver,new york, usa,9 days left,118915.74193999999
+15800,ford,door,2012,clean vehicle,gold,florida, usa,2 days left,132873.54776
+36000,ford,door,2016,clean vehicle,black,mississippi, usa,21 hours left,137838.36166
+15495,ford,doors,2015,clean vehicle,white,new york, usa,9 days left,77850.21316
+21500,ford,door,2012,clean vehicle,red,florida, usa,2 days left,19295.9866
+17589,ford,doors,2015,clean vehicle,red,new jersey, usa,9 days left,46302.32114
+31700,ford,door,2015,clean vehicle,white,alabama, usa,21 hours left,203916.25272
+31790,ford,doors,2015,clean vehicle,orange,new york, usa,9 days left,43717.7211
+18100,ford,van,2015,clean vehicle,white,mississippi, usa,21 hours left,171468.73963999999
+14495,ford,doors,2015,clean vehicle,white,new jersey, usa,9 days left,88156.42652
+15000,ford,fusion,2020,clean vehicle,white,illinois, usa,19 hours left,18875.94886
+26400,ford,door,2015,clean vehicle,black,mississippi, usa,21 hours left,137110.93998
+27990,ford,doors,2015,clean vehicle,red,massachusetts, usa,9 days left,30786.6742
+19700,ford,expedition,2015,clean vehicle,white,mississippi, usa,21 hours left,116466.32646
+15300,ford,doors,2015,clean vehicle,silver,massachusetts, usa,9 days left,95990.69364
+22000,ford,door,2014,clean vehicle,black,mississippi, usa,21 hours left,110107.82412
+23999,ford,doors,2015,clean vehicle,black,new jersey, usa,9 days left,13518.456
+16488,ford,doors,2015,clean vehicle,gray,new york, usa,9 days left,72555.48456
+12784,ford,doors,2015,clean vehicle,gray,new jersey, usa,9 days left,107885.32558
+23400,ford,doors,2015,clean vehicle,black,new jersey, usa,9 days left,103215.0209
+34977,ford,doors,2015,clean vehicle,black,pennsylvania, usa,9 days left,74898.6836
+15995,ford,doors,2015,clean vehicle,black,new york, usa,9 days left,111749.35092
+13487,ford,doors,2015,clean vehicle,gray,new york, usa,9 days left,154892.53764
+18707,ford,doors,2015,clean vehicle,white,connecticut, usa,9 days left,112201.57546
+15600,ford,doors,2015,clean vehicle,black,new york, usa,9 days left,87427.3955
+47000,ford,expedition,2019,clean vehicle,black,illinois, usa,2 days left,40075.78468
+16080,ford,doors,2015,clean vehicle,blue,connecticut, usa,9 days left,51165.74662
+50000,ford,max,2019,clean vehicle,white,illinois, usa,2 days left,26562.1567
+15268,ford,doors,2015,clean vehicle,black,new york, usa,9 days left,119672.13174
+47500,ford,max,2019,clean vehicle,black,illinois, usa,2 days left,44849.08712
+18497,ford,doors,2015,clean vehicle,black,massachusetts, usa,9 days left,54735.26274
+19995,ford,suv,2015,clean vehicle,red,pennsylvania, usa,9 days left,77433.3941
+49000,ford,max,2019,clean vehicle,white,illinois, usa,2 days left,36279.35162
+17150,ford,doors,2015,clean vehicle,black,new jersey, usa,9 days left,107972.22994
+45000,ford,expedition,2019,clean vehicle,black,illinois, usa,2 days left,46332.8986
+49000,ford,max,2019,clean vehicle,black,illinois, usa,2 days left,29690.71366
+49000,ford,expedition,2019,clean vehicle,black,illinois, usa,2 days left,31066.69936
+26000,ford,flex,2019,clean vehicle,black,illinois, usa,2 days left,30107.53272
+15500,ford,flex,2019,clean vehicle,gray,illinois, usa,19 hours left,19944.550619999998
+16888,ford,doors,2015,clean vehicle,black,new york, usa,9 days left,90652.51286
+28000,ford,f-150,2019,clean vehicle,silver,illinois, usa,2 days left,19561.5277
+15500,ford,mustang,2019,clean vehicle,red,illinois, usa,19 hours left,41537.0654
+12500,ford,door,2015,clean vehicle,blue,arkansas, usa,20 hours left,209838.62392
+15995,ford,doors,2015,clean vehicle,blue,new york, usa,9 days left,38427.82052
+16000,ford,transit,2019,clean vehicle,white,illinois, usa,19 hours left,24880.3964
+38200,ford,max,2018,clean vehicle,white,north carolina, usa,Listing Expired,75172.2714
+12995,ford,doors,2015,clean vehicle,black,new york, usa,9 days left,105157.49428
+17500,ford,door,2016,clean vehicle,white,florida, usa,14 hours left,149932.55176
+21995,ford,doors,2015,clean vehicle,blue,massachusetts, usa,9 days left,57339.17486
+13000,ford,door,2017,clean vehicle,black,illinois, usa,2 days left,54170.3844
+14247,ford,doors,2015,clean vehicle,blue,pennsylvania, usa,9 days left,98440.10912
+23500,ford,door,2017,clean vehicle,gray,illinois, usa,2 days left,67980.13094
+25000,ford,door,2017,clean vehicle,red,illinois, usa,2 days left,72425.12802
+31000,ford,door,2017,clean vehicle,black,illinois, usa,2 days left,1.60934
+22500,ford,edge,2018,clean vehicle,gray,colorado, usa,8 days left,39826.33698
+29500,ford,door,2017,clean vehicle,black,illinois, usa,2 days left,78386.12338
+59900,ford,max,2020,clean vehicle,no_color,ohio, usa,21 hours left,3479.39308
+24000,ford,f-150,2017,clean vehicle,black,illinois, usa,2 days left,81873.56316
+20500,ford,f-150,2017,clean vehicle,black,illinois, usa,2 days left,113823.79018
+27200,ford,explorer,2019,clean vehicle,gray,north carolina, usa,2 days left,47285.62788
+24900,ford,f-150,2018,clean vehicle,white,virginia, usa,2 days left,53420.43196
+24500,ford,door,2017,clean vehicle,white,illinois, usa,2 days left,83820.86456
+34000,ford,expedition,2018,clean vehicle,black,virginia, usa,2 days left,82272.67948
+28000,ford,door,2017,clean vehicle,white,illinois, usa,2 days left,64833.87124
+27000,ford,f-150,2017,clean vehicle,black,illinois, usa,2 days left,89189.6228
+34000,ford,wagon,2018,clean vehicle,black,virginia, usa,5 days left,16547.23388
+42500,ford,door,2017,clean vehicle,white,illinois, usa,2 days left,137241.29652
+33000,ford,explorer,2018,clean vehicle,black,pennsylvania, usa,2 days left,11680.58972
+10200,ford,escape,2018,clean vehicle,black,pennsylvania, usa,2 days left,150231.889
+25600,ford,explorer,2019,clean vehicle,gray,north carolina, usa,2 days left,59812.73044
+16300,ford,f-150,2018,clean vehicle,white,texas, usa,1 days left,111816.9432
+26500,ford,door,2016,clean vehicle,white,illinois, usa,2 days left,55810.30186
+36500,ford,f-150,2018,clean vehicle,red,pennsylvania, usa,3 days left,38867.17034
+25900,ford,explorer,2019,clean vehicle,white,north carolina, usa,2 days left,52779.91464
+22500,ford,door,2016,clean vehicle,black,illinois, usa,2 days left,109401.32386
+29000,ford,f-150,2018,clean vehicle,white,pennsylvania, usa,3 days left,30078.5646
+10500,ford,door,2016,clean vehicle,red,illinois, usa,2 days left,87308.30434
+32000,ford,f-150,2018,clean vehicle,white,pennsylvania, usa,3 days left,51920.52708
+27700,ford,f-650,2015,clean vehicle,white,texas, usa,2 days left,148635.42372
+38800,ford,f-150,2018,clean vehicle,black,pennsylvania, usa,3 days left,56689.0015
+26200,ford,f-650,2015,clean vehicle,white,texas, usa,2 days left,207706.24842
+19500,ford,wagon,2018,clean vehicle,white,wisconsin, usa,23 hours left,80442.8599
+11700,ford,escape,2015,clean vehicle,black,illinois, usa,2 days left,84232.8556
+34000,ford,f-150,2018,clean vehicle,black,pennsylvania, usa,3 days left,34449.53204
+38600,ford,srw,2019,clean vehicle,white,florida, usa,1 days left,26745.62146
+21500,ford,door,2015,clean vehicle,black,illinois, usa,2 days left,66454.47662
+38500,ford,f-150,2018,clean vehicle,black,pennsylvania, usa,3 days left,59630.87502
+38500,ford,f-150,2018,clean vehicle,black,pennsylvania, usa,3 days left,55573.72888
+12000,ford,taurus,2017,clean vehicle,blue,missouri, usa,8 days left,21449.28352
+11300,ford,door,2016,clean vehicle,orange,missouri, usa,47 minutes,77377.0672
+29500,ford,f-150,2018,clean vehicle,gray,pennsylvania, usa,3 days left,19748.21114
+16100,ford,expedition,2014,clean vehicle,white,missouri, usa,47 minutes,156617.75012
+32500,ford,f-150,2018,clean vehicle,red,pennsylvania, usa,3 days left,20465.97678
+29000,ford,mustang,2019,clean vehicle,black,texas, usa,10 days left,20541.61576
+30000,ford,f-150,2018,clean vehicle,red,pennsylvania, usa,3 days left,32107.94234
+26000,ford,explorer,2019,clean vehicle,white,north carolina, usa,2 days left,52235.95772
+26000,ford,f-150,2018,clean vehicle,gray,pennsylvania, usa,3 days left,34787.49344
+18500,ford,escape,2019,clean vehicle,blue,north carolina, usa,6 days left,28573.8317
+12000,ford,door,2017,clean vehicle,gray,texas, usa,9 days left,118843.32164
+30000,ford,f-150,2018,clean vehicle,blue,pennsylvania, usa,3 days left,25380.901139999998
+14700,ford,escape,2019,clean vehicle,silver,north carolina, usa,2 days left,46941.229119999996
+25000,ford,door,2017,clean vehicle,red,texas, usa,10 days left,256177.95988
+26550,ford,f-150,2018,clean vehicle,white,pennsylvania, usa,5 hours left,24616.46464
+27000,ford,explorer,2019,clean vehicle,white,north carolina, usa,2 days left,49046.24584
+34000,ford,door,2016,clean vehicle,white,texas, usa,10 days left,212036.98236
+27500,ford,f-150,2018,clean vehicle,gray,pennsylvania, usa,3 days left,41995.7273
+25500,ford,f-150,2018,clean vehicle,gray,pennsylvania, usa,3 days left,35577.67938
+13500,ford,ecosport,2019,clean vehicle,brown,north carolina, usa,6 days left,50222.67338
+25700,ford,f-150,2018,clean vehicle,white,pennsylvania, usa,3 days left,30670.80172
+29000,ford,door,2015,clean vehicle,white,texas, usa,10 days left,175638.53958
+30500,ford,f-150,2018,clean vehicle,black,pennsylvania, usa,3 days left,38717.50172
+30000,ford,f-150,2018,clean vehicle,black,pennsylvania, usa,3 days left,11212.27178
+19000,ford,f-150,2018,clean vehicle,white,pennsylvania, usa,12 hours left,58169.5943
+25800,ford,explorer,2019,clean vehicle,silver,north carolina, usa,2 days left,54624.21828
+26500,ford,f-150,2018,clean vehicle,gray,pennsylvania, usa,3 days left,62551.82712
+29300,ford,explorer,2019,clean vehicle,red,north carolina, usa,2 days left,58242.0146
+25400,ford,explorer,2019,clean vehicle,white,north carolina, usa,2 days left,63193.953779999996
+26000,ford,f-150,2018,clean vehicle,gray,pennsylvania, usa,3 days left,53671.489
+25900,ford,f-150,2018,clean vehicle,red,pennsylvania, usa,36 minutes,54847.91654
+27000,ford,f-150,2018,clean vehicle,black,pennsylvania, usa,3 days left,65302.18918
+28000,ford,f-150,2018,clean vehicle,red,pennsylvania, usa,3 days left,49277.9908
+25700,ford,flex,2019,clean vehicle,black,north carolina, usa,6 days left,35436.057459999996
+27500,ford,f-150,2018,clean vehicle,black,pennsylvania, usa,3 days left,59130.37028
+25500,ford,f-150,2018,clean vehicle,blue,pennsylvania, usa,3 days left,69855.01204
+20500,ford,flex,2019,clean vehicle,white,north carolina, usa,6 days left,55837.66064
+21500,ford,f-150,2018,clean vehicle,gray,pennsylvania, usa,3 days left,70036.86746
+12800,ford,hybrid,2019,clean vehicle,gray,north carolina, usa,6 days left,60697.86744
+23900,ford,f-150,2018,clean vehicle,white,pennsylvania, usa,3 days left,66991.99618
+26900,ford,f-150,2018,clean vehicle,silver,pennsylvania, usa,3 days left,66781.17264
+25500,ford,flex,2019,clean vehicle,gray,north carolina, usa,6 days left,33173.32542
+27000,ford,f-150,2018,clean vehicle,blue,pennsylvania, usa,3 days left,53872.6565
+14400,ford,fusion,2018,clean vehicle,black,pennsylvania, usa,2 days left,61393.10232
+19000,ford,flex,2019,clean vehicle,red,north carolina, usa,2 days left,64334.97584
+14000,ford,fusion,2018,clean vehicle,white,pennsylvania, usa,2 days left,81292.59142
+13600,ford,fusion,2019,clean vehicle,gray,north carolina, usa,2 days left,50546.15072
+19200,ford,transit,2018,clean vehicle,white,pennsylvania, usa,2 days left,66547.81834
+13600,ford,fusion,2019,clean vehicle,red,north carolina, usa,2 days left,51560.03492
+18600,ford,transit,2018,clean vehicle,white,pennsylvania, usa,2 days left,61603.92586
+13700,ford,fusion,2019,clean vehicle,red,north carolina, usa,2 days left,49038.19914
+18200,ford,transit,2018,clean vehicle,white,pennsylvania, usa,2 days left,66898.65446
+13800,ford,fusion,2019,clean vehicle,silver,north carolina, usa,2 days left,50118.06628
+22000,ford,wagon,2018,clean vehicle,black,pennsylvania, usa,2 days left,50851.92532
+13700,ford,fusion,2019,clean vehicle,silver,north carolina, usa,2 days left,50501.0892
+28000,ford,wagon,2018,clean vehicle,black,pennsylvania, usa,2 days left,35693.55186
+13800,ford,fusion,2019,clean vehicle,white,north carolina, usa,2 days left,47098.94444
+18600,ford,transit,2018,clean vehicle,white,pennsylvania, usa,2 days left,67843.33704
+13700,ford,fusion,2019,clean vehicle,red,north carolina, usa,2 days left,49688.3725
+13700,ford,fusion,2019,clean vehicle,silver,north carolina, usa,2 days left,49260.28806
+13800,ford,fusion,2019,clean vehicle,silver,north carolina, usa,2 days left,47488.40472
+17700,ford,hybrid,2019,clean vehicle,gray,north carolina, usa,6 days left,20659.09758
+13900,ford,fusion,2019,clean vehicle,white,north carolina, usa,2 days left,47689.57222
+13900,ford,fusion,2019,clean vehicle,no_color,north carolina, usa,2 days left,44194.08574
+50500,ford,f-650,2018,clean vehicle,white,pennsylvania, usa,2 days left,120637.73574
+13600,ford,fusion,2019,clean vehicle,gray,north carolina, usa,2 days left,51746.71836
+55000,ford,srw,2018,clean vehicle,black,pennsylvania, usa,3 days left,59939.8683
+13800,ford,fusion,2019,clean vehicle,white,north carolina, usa,2 days left,47226.0823
+56000,ford,srw,2018,clean vehicle,black,pennsylvania, usa,3 days left,40830.56514
+13800,ford,fusion,2019,clean vehicle,silver,north carolina, usa,2 days left,48367.10436
+45800,ford,srw,2018,clean vehicle,white,pennsylvania, usa,2 days left,17981.15582
+13800,ford,fusion,2019,clean vehicle,no_color,north carolina, usa,2 days left,49731.82468
+14400,nissan,altima,2020,clean vehicle,gray,arizona, usa,2 days left,17264.99952
+11450,nissan,sport,2018,clean vehicle,white,florida, usa,7 days left,56928.79316
+11000,nissan,sport,2018,clean vehicle,black,florida, usa,7 days left,59086.9181
+11450,nissan,sport,2018,clean vehicle,red,florida, usa,7 days left,53811.50158
+11000,nissan,sport,2018,clean vehicle,black,florida, usa,7 days left,59204.399919999996
+11200,nissan,sport,2018,clean vehicle,black,florida, usa,7 days left,57117.08594
+11400,nissan,sport,2018,clean vehicle,black,florida, usa,7 days left,54144.63496
+11450,nissan,sport,2018,clean vehicle,gray,florida, usa,7 days left,57664.26154
+11050,nissan,sport,2018,clean vehicle,gray,florida, usa,7 days left,56407.367
+11400,nissan,sport,2018,clean vehicle,gray,florida, usa,7 days left,56204.59016
+11050,nissan,sport,2018,clean vehicle,silver,florida, usa,7 days left,56265.74508
+10850,nissan,sport,2018,clean vehicle,gray,florida, usa,7 days left,64349.4599
+10900,nissan,sport,2018,clean vehicle,red,florida, usa,7 days left,62468.14144
+10450,nissan,sport,2018,clean vehicle,red,florida, usa,7 days left,66914.74786
+10800,nissan,sport,2018,clean vehicle,gray,florida, usa,7 days left,65105.8497
+10850,nissan,sport,2018,clean vehicle,white,florida, usa,7 days left,64367.16264
+10800,nissan,sport,2018,clean vehicle,black,florida, usa,7 days left,66106.85918
+10850,nissan,sport,2018,clean vehicle,gray,florida, usa,7 days left,63058.76922
+10800,nissan,sport,2018,clean vehicle,black,florida, usa,7 days left,65142.86452
+10900,nissan,sport,2018,clean vehicle,white,florida, usa,7 days left,62452.04804
+10400,nissan,sport,2018,clean vehicle,blue,florida, usa,7 days left,72952.99154
+10500,nissan,sport,2018,clean vehicle,blue,florida, usa,7 days left,70056.17954
+10800,nissan,sport,2018,clean vehicle,silver,florida, usa,7 days left,66036.04822
+10800,nissan,sport,2018,clean vehicle,gray,florida, usa,7 days left,64907.90088
+11200,nissan,frontier,2019,clean vehicle,silver,arizona, usa,2 days left,35918.85946
+11100,nissan,rogue,2019,clean vehicle,blue,arizona, usa,2 days left,35896.3287
+12200,nissan,maxima,2019,clean vehicle,black,arizona, usa,2 days left,59539.14264
+14900,nissan,rogue,2019,clean vehicle,silver,arizona, usa,2 days left,42673.25944
+10400,nissan,note,2019,clean vehicle,white,arizona, usa,2 days left,43038.57962
+12300,nissan,sport,2019,clean vehicle,white,arizona, usa,2 days left,51400.71026
+10900,nissan,sentra,2019,clean vehicle,gray,arizona, usa,2 days left,49949.08558
+20000,nissan,armada,2017,clean vehicle,white,texas, usa,6 days left,134278.50158
+11200,nissan,altima,2018,clean vehicle,blue,wisconsin, usa,22 hours left,67994.615
+14400,nissan,rogue,2018,clean vehicle,black,wisconsin, usa,23 hours left,73598.33688
+16500,nissan,pathfinder,2018,clean vehicle,white,wisconsin, usa,22 hours left,79155.3879
+13400,nissan,rogue,2017,clean vehicle,silver,wisconsin, usa,20 hours left,73749.61484
+12500,nissan,door,2017,clean vehicle,white,wisconsin, usa,22 hours left,59294.52296
+19800,nissan,pathfinder,2018,clean vehicle,white,florida, usa,23 hours left,54939.64892
+12800,nissan,rogue,2018,clean vehicle,blue,florida, usa,23 hours left,52554.60704
+10800,nissan,door,2017,clean vehicle,blue,florida, usa,23 hours left,67156.14886
+22300,nissan,titan,2017,clean vehicle,white,texas, usa,2 days left,27672.6013
+15200,nissan,frontier,2018,clean vehicle,black,alabama, usa,21 hours left,19519.68486
+10500,nissan,door,2017,clean vehicle,black,connecticut, usa,3 days left,95768.60472
+25500,nissan,armada,2020,clean vehicle,black,california, usa,1 days left,16603.56078
+13900,nissan,altima,2020,clean vehicle,black,california, usa,1 days left,24397.594399999998
+14700,nissan,pathfinder,2017,clean vehicle,white,connecticut, usa,3 days left,50208.18932
+18800,nissan,titan,2017,clean vehicle,white,missouri, usa,21 hours left,25139.50014
+13500,nissan,door,2016,clean vehicle,red,louisiana, usa,8 days left,85312.72274
+14000,nissan,rogue,2018,clean vehicle,white,florida, usa,20 hours left,60599.6977
+12500,nissan,sport,2018,clean vehicle,gray,california, usa,2 days left,69502.56658
+18500,nissan,frontier,2019,clean vehicle,white,california, usa,8 days left,29951.42674
+18300,nissan,frontier,2019,clean vehicle,white,california, usa,8 days left,38698.18964
+29800,nissan,armada,2019,clean vehicle,blue,california, usa,8 days left,60186.09732
+21100,nissan,rogue,2020,clean vehicle,silver,south carolina, usa,21 hours left,31538.23598
+16200,nissan,rogue,2019,clean vehicle,silver,california, usa,8 days left,54913.89948
+14700,nissan,rogue,2020,clean vehicle,gray,pennsylvania, usa,2 days left,24762.91458
+19000,nissan,cargo,2020,clean vehicle,black,california, usa,7 hours left,424.86576
+19925,nissan,murano,2016,clean vehicle,gray,alabama, usa,21 hours left,68939.29758
+22800,nissan,door,2015,clean vehicle,blue,alabama, usa,21 hours left,57778.52468
+14500,nissan,rogue,2017,clean vehicle,blue,tennessee, usa,4 days left,13964.24318
+12000,nissan,rogue,2020,clean vehicle,blue,ohio, usa,2 days left,18640.98522
+15000,nissan,altima,2020,clean vehicle,blue,ohio, usa,2 days left,23045.7488
+28000,nissan,armada,2018,clean vehicle,gray,pennsylvania, usa,3 days left,47562.43436
+17500,nissan,maxima,2018,clean vehicle,black,pennsylvania, usa,2 days left,63261.54606
+18000,nissan,maxima,2018,clean vehicle,silver,pennsylvania, usa,3 days left,56248.04234
+13200,nissan,sport,2018,clean vehicle,black,pennsylvania, usa,2 days left,57727.0258
+17000,nissan,altima,2018,clean vehicle,gray,texas, usa,21 hours left,71491.71082
+23300,nissan,murano,2018,clean vehicle,white,texas, usa,21 hours left,59294.52296
+26800,nissan,titan,2018,clean vehicle,white,new mexico, usa,21 hours left,54081.8707
+18200,nissan,sport,2018,clean vehicle,black,tennessee, usa,21 hours left,45076.00406
+18700,nissan,rogue,2018,clean vehicle,silver,virginia, usa,21 hours left,66571.95844
+12900,nissan,door,2016,clean vehicle,red,new jersey, usa,2 hours left,158285.02636
+16000,nissan,rogue,2018,clean vehicle,no_color,virginia, usa,21 hours left,63726.64532
+19400,nissan,rogue,2020,clean vehicle,black,minnesota, usa,14 hours left,33810.62406
+10900,nissan,sentra,2018,clean vehicle,silver,tennessee, usa,21 hours left,46477.739199999996
+15800,nissan,sport,2018,clean vehicle,black,virginia, usa,21 hours left,46068.96684
+19800,nissan,rogue,2020,clean vehicle,silver,minnesota, usa,14 hours left,23898.699
+19000,nissan,rogue,2018,clean vehicle,black,virginia, usa,21 hours left,66137.43664
+18000,nissan,rogue,2020,clean vehicle,black,minnesota, usa,14 hours left,20515.86632
+19800,nissan,rogue,2020,clean vehicle,blue,minnesota, usa,14 hours left,23385.31954
+19700,nissan,rogue,2020,clean vehicle,black,minnesota, usa,14 hours left,25638.39554
+20100,nissan,rogue,2020,clean vehicle,blue,minnesota, usa,14 hours left,17501.5725
+19700,nissan,frontier,2019,clean vehicle,silver,minnesota, usa,14 hours left,50166.34648
+23400,nissan,frontier,2019,clean vehicle,white,minnesota, usa,14 hours left,26148.55632
+23300,nissan,frontier,2019,clean vehicle,black,minnesota, usa,14 hours left,29188.59958
+17500,nissan,altima,2019,clean vehicle,black,minnesota, usa,14 hours left,41302.10176
+17100,nissan,altima,2019,clean vehicle,black,minnesota, usa,14 hours left,49931.38284
+15800,nissan,altima,2019,clean vehicle,silver,minnesota, usa,14 hours left,66444.82058
+13600,nissan,altima,2019,clean vehicle,black,minnesota, usa,14 hours left,70186.53608
+14400,nissan,altima,2019,clean vehicle,black,minnesota, usa,14 hours left,47547.9503
+19800,nissan,frontier,2019,clean vehicle,silver,minnesota, usa,14 hours left,39111.79002
+17200,nissan,altima,2019,clean vehicle,gray,minnesota, usa,14 hours left,47734.63374
+20300,nissan,frontier,2019,clean vehicle,silver,minnesota, usa,14 hours left,30347.32438
+20500,nissan,frontier,2019,clean vehicle,gray,minnesota, usa,14 hours left,23287.1498
+16500,nissan,altima,2019,clean vehicle,silver,minnesota, usa,14 hours left,68178.07976
+16000,nissan,altima,2019,clean vehicle,black,minnesota, usa,14 hours left,59719.38872
+14600,nissan,altima,2019,clean vehicle,blue,minnesota, usa,14 hours left,42538.07488
+16300,nissan,rogue,2019,clean vehicle,white,minnesota, usa,14 hours left,38904.18516
+15400,nissan,sport,2019,clean vehicle,silver,minnesota, usa,14 hours left,49496.86104
+15800,nissan,rogue,2019,clean vehicle,blue,minnesota, usa,14 hours left,52260.09782
+15800,nissan,sport,2019,clean vehicle,blue,minnesota, usa,14 hours left,36929.52498
+21400,nissan,murano,2018,clean vehicle,white,georgia, usa,21 hours left,27563.16618
+15300,nissan,kicks,2019,clean vehicle,gray,minnesota, usa,14 hours left,33463.00662
+20100,nissan,pathfinder,2019,clean vehicle,black,minnesota, usa,14 hours left,52334.12746
+11300,nissan,sentra,2019,clean vehicle,gray,minnesota, usa,14 hours left,43339.5262
+10700,nissan,sentra,2019,clean vehicle,black,minnesota, usa,14 hours left,65723.83626
+16000,nissan,rogue,2018,clean vehicle,no_color,south carolina, usa,21 hours left,71988.99688
+16600,nissan,rogue,2019,clean vehicle,white,minnesota, usa,14 hours left,31047.38728
+15800,nissan,sport,2019,clean vehicle,gray,minnesota, usa,14 hours left,38873.6077
+11600,nissan,sentra,2019,clean vehicle,black,minnesota, usa,14 hours left,53702.06646
+15000,nissan,rogue,2017,clean vehicle,red,virginia, usa,21 hours left,46538.89412
+17600,nissan,rogue,2019,clean vehicle,blue,minnesota, usa,14 hours left,34798.75882
+36300,nissan,xd,2017,clean vehicle,white,virginia, usa,21 hours left,26109.93216
+15600,nissan,sport,2019,clean vehicle,silver,minnesota, usa,14 hours left,42496.23204
+14000,nissan,rogue,2017,clean vehicle,green,virginia, usa,21 hours left,44723.5586
+16600,nissan,rogue,2019,clean vehicle,black,minnesota, usa,14 hours left,30870.35988
+12600,nissan,sentra,2017,clean vehicle,gray,tennessee, usa,21 hours left,19049.75758
+20900,nissan,pathfinder,2019,clean vehicle,black,minnesota, usa,14 hours left,35041.76916
+12700,nissan,door,2017,clean vehicle,black,tennessee, usa,21 hours left,28546.47292
+15600,nissan,sport,2019,clean vehicle,white,minnesota, usa,14 hours left,43783.70404
+18900,nissan,rogue,2019,clean vehicle,silver,minnesota, usa,14 hours left,33004.34472
+15700,nissan,sport,2019,clean vehicle,blue,minnesota, usa,14 hours left,40212.57858
+21900,nissan,pathfinder,2019,clean vehicle,gray,minnesota, usa,14 hours left,34235.48982
+21700,nissan,pathfinder,2019,clean vehicle,black,minnesota, usa,14 hours left,38403.68042
+14600,nissan,rogue,2016,clean vehicle,gray,virginia, usa,21 hours left,50800.42644
+12000,nissan,sentra,2019,clean vehicle,gray,minnesota, usa,14 hours left,40653.53774
+21000,nissan,pathfinder,2019,clean vehicle,silver,minnesota, usa,14 hours left,33197.46552
+12500,nissan,door,2017,clean vehicle,blue,pennsylvania, usa,2 days left,78479.4651
+15900,nissan,rogue,2019,clean vehicle,silver,minnesota, usa,14 hours left,49318.2243
+11800,nissan,door,2017,clean vehicle,red,pennsylvania, usa,3 days left,96814.67572
+10600,nissan,sentra,2018,clean vehicle,black,minnesota, usa,14 hours left,63099.00272
+10100,nissan,sentra,2018,clean vehicle,black,minnesota, usa,14 hours left,72549.0472
+13300,nissan,sport,2018,clean vehicle,gray,minnesota, usa,14 hours left,63161.76698
+10100,nissan,sentra,2018,clean vehicle,white,minnesota, usa,14 hours left,74644.40788
+10300,nissan,sentra,2018,clean vehicle,black,minnesota, usa,14 hours left,64201.40062
+10300,nissan,sentra,2018,clean vehicle,gray,minnesota, usa,14 hours left,66309.63602
+10300,nissan,sentra,2018,clean vehicle,blue,minnesota, usa,14 hours left,65416.45232
+24000,nissan,murano,2018,clean vehicle,gray,minnesota, usa,14 hours left,50776.28634
+10400,nissan,sentra,2018,clean vehicle,gray,minnesota, usa,14 hours left,62379.627739999996
+10200,nissan,sentra,2018,clean vehicle,gray,minnesota, usa,14 hours left,68940.90692
+10500,nissan,sentra,2018,clean vehicle,black,minnesota, usa,14 hours left,66201.81024
+10500,nissan,sentra,2018,clean vehicle,silver,minnesota, usa,14 hours left,66209.85694
+14100,nissan,rogue,2016,clean vehicle,silver,pennsylvania, usa,2 days left,35471.46294
+11000,nissan,rogue,2016,clean vehicle,black,pennsylvania, usa,2 days left,60519.2307
+11000,nissan,rogue,2016,clean vehicle,green,pennsylvania, usa,18 hours left,102576.11292
+20400,nissan,pathfinder,2018,clean vehicle,silver,south carolina, usa,21 hours left,38854.29562
+15100,nissan,rogue,2017,clean vehicle,gray,south carolina, usa,21 hours left,45188.65786
+19500,nissan,door,2017,clean vehicle,gray,south carolina, usa,21 hours left,85544.4677
+22600,nissan,titan,2017,clean vehicle,gray,south carolina, usa,21 hours left,151693.16972
+11800,nissan,door,2012,clean vehicle,gray,pennsylvania, usa,2 days left,149472.28052
+20500,nissan,pathfinder,2017,clean vehicle,white,missouri, usa,4 days left,41710.87412
+14200,nissan,rogue,2018,clean vehicle,black,ohio, usa,21 hours left,60881.3322
+22000,nissan,frontier,2018,clean vehicle,white,ohio, usa,21 hours left,22329.5925
+16200,nissan,frontier,2018,clean vehicle,silver,ohio, usa,21 hours left,9694.66416
+16000,nissan,sport,2018,clean vehicle,black,ohio, usa,21 hours left,48938.42006
+14300,nissan,sport,2018,clean vehicle,gray,ohio, usa,21 hours left,72201.42976
+16800,nissan,pathfinder,2019,clean vehicle,silver,florida, usa,21 hours left,68231.18798
+11900,nissan,sentra,2018,clean vehicle,gray,ohio, usa,21 hours left,27001.50652
+15000,nissan,rogue,2019,clean vehicle,gray,florida, usa,21 hours left,55831.22328
+15200,nissan,rogue,2019,clean vehicle,gray,florida, usa,21 hours left,49440.53414
+18000,nissan,door,2017,clean vehicle,black,ohio, usa,21 hours left,85900.13184
+22700,nissan,nvp,2016,clean vehicle,white,ohio, usa,21 hours left,34249.97388
+11400,nissan,sentra,2018,clean vehicle,blue,illinois, usa,21 hours left,16692.07448
+28100,nissan,pathfinder,2018,clean vehicle,silver,illinois, usa,21 hours left,14305.42326
+15200,nissan,murano,2016,clean vehicle,orange,illinois, usa,21 hours left,95981.0376
+13400,nissan,rogue,2016,clean vehicle,black,illinois, usa,21 hours left,74316.10252
+12500,nissan,altima,2018,clean vehicle,gray,florida, usa,2 days left,55457.8564
+16500,nissan,pathfinder,2018,clean vehicle,black,florida, usa,21 hours left,49236.14796
+16500,nissan,pathfinder,2018,clean vehicle,silver,florida, usa,21 hours left,64079.09078
+16500,nissan,pathfinder,2018,clean vehicle,black,florida, usa,21 hours left,65047.913459999996
+13900,nissan,rogue,2018,clean vehicle,black,florida, usa,2 days left,57120.30462
+13900,nissan,rogue,2018,clean vehicle,gray,florida, usa,21 hours left,59663.06182
+16500,nissan,pathfinder,2018,clean vehicle,white,florida, usa,21 hours left,55747.5376
+13900,nissan,rogue,2018,clean vehicle,white,florida, usa,21 hours left,62378.0184
+16500,nissan,pathfinder,2018,clean vehicle,black,florida, usa,2 days left,56071.01494
+13900,nissan,rogue,2018,clean vehicle,gray,florida, usa,2 days left,56431.5071
+12400,nissan,altima,2018,clean vehicle,black,florida, usa,21 hours left,60738.10094
+13000,nissan,altima,2018,clean vehicle,gray,florida, usa,21 hours left,44237.53792
+16500,nissan,pathfinder,2018,clean vehicle,gray,florida, usa,21 hours left,60273.00168
+13900,nissan,rogue,2018,clean vehicle,black,florida, usa,21 hours left,64046.90398
+16500,nissan,pathfinder,2018,clean vehicle,black,florida, usa,21 hours left,59085.30876
+13900,nissan,rogue,2018,clean vehicle,black,florida, usa,21 hours left,58269.37338
+13900,nissan,rogue,2018,clean vehicle,black,florida, usa,21 hours left,62060.97842
+13900,nissan,rogue,2018,clean vehicle,silver,florida, usa,21 hours left,64188.5259
+12100,nissan,altima,2018,clean vehicle,silver,florida, usa,21 hours left,67354.09768
+16500,nissan,pathfinder,2018,clean vehicle,silver,florida, usa,21 hours left,63494.90036
+16500,nissan,pathfinder,2018,clean vehicle,blue,florida, usa,21 hours left,64700.29602
+13900,nissan,rogue,2018,clean vehicle,white,florida, usa,21 hours left,55597.86898
+18800,nissan,pathfinder,2019,clean vehicle,white,north carolina, usa,21 hours left,50087.48882
+30100,nissan,titan,2019,clean vehicle,black,north carolina, usa,21 hours left,49244.19466
+11100,nissan,sentra,2019,clean vehicle,black,north carolina, usa,21 hours left,64951.35306
+13900,nissan,rogue,2018,clean vehicle,white,florida, usa,21 hours left,71314.68342
+22800,nissan,frontier,2019,clean vehicle,black,illinois, usa,21 hours left,39139.1488
+13900,nissan,rogue,2018,clean vehicle,black,florida, usa,21 hours left,68400.16868
+12600,nissan,altima,2019,clean vehicle,gray,california, usa,1 days left,53908.06198
+12100,nissan,altima,2019,clean vehicle,gray,california, usa,1 days left,59503.73716
+13900,nissan,rogue,2018,clean vehicle,black,florida, usa,21 hours left,66850.37426
+13900,nissan,rogue,2018,clean vehicle,white,florida, usa,21 hours left,64251.29016
+13900,nissan,rogue,2018,clean vehicle,gray,florida, usa,21 hours left,64790.41906
+10400,nissan,sentra,2019,clean vehicle,blue,california, usa,1 days left,40658.36576
