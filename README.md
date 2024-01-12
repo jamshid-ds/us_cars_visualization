@@ -44,6 +44,46 @@ Ushbu Grafikdan olingan natija:
 ---
 <br>
 <br>
+Yakunida Biz Narxni bashorat qiluvchi machine learning modellarini ham yaratdik. Undan olingan natijalar:
+<br>
+<br>
+<br>
+MAPE
+<br>
+<br>
+linear_model_predict : 18.51 %
+<br>
+ridge_model_predict : 18.9 %
+<br>
+lasso_model_predict : 18.33 %
+<br>
+dt_model_predict : 24.36 %
+<br>
+rf_model_predict : 19.74 %
+<br>
+gb_regressor_predict : 23.44 %
+<br>
+svr_model_predict : 34.24 %
+<br>
+<br>
+<br>
+MAE
+<br>
+<br>
+linear_model_predict : 390167.14
+<br>
+ridge_model_predict : 394558.88
+<br>
+lasso_model_predict : 387587.52
+<br>
+dt_model_predict : 495328.57
+<br>
+rf_model_predict : 402908.48
+<br>
+gb_regressor_predict : 463888.39
+<br>
+svr_model_predict : 697602.65
+<br>
 
 
 
